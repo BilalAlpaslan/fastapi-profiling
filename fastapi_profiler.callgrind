@@ -1,0 +1,7023 @@
+version: 1
+creator: yappi
+pid: 80916
+cmd:  c:/Users/mbila/Masaüstü/fastapi-profiling/app/profiler.py
+part: 1
+
+events: Ticks
+
+fl=(0) c:\Users\mbila\Masaüstü\fastapi-profiling\app\main.py
+fl=(42) <frozen importlib._bootstrap>
+fl=(59) <frozen importlib._bootstrap_external>
+fl=(1) <frozen importlib._bootstrap>
+fl=(539) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\main.py
+fl=(75) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\__init__.py
+fl=(26) <frozen importlib._bootstrap_external>
+fl=(12) <frozen importlib._bootstrap>
+fl=(22) <frozen importlib._bootstrap_external>
+fl=(21) <frozen importlib._bootstrap_external>
+fl=(73) <frozen importlib._bootstrap>
+fl=(14) <frozen importlib._bootstrap>
+fl=(36) <frozen importlib._bootstrap_external>
+fl=(90) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\config.py
+fl=(691) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\supervisors\basereload.py
+fl=(192) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\__init__.py
+fl=(683) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\watchgod\watcher.py
+fl=(35) <frozen importlib._bootstrap_external>
+fl=(27) <frozen importlib._bootstrap_external>
+fl=(193) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\core.py
+fl=(828) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\supervisors\watchgodreload.py
+fl=(680) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\watchgod\watcher.py
+fl=(679) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\watchgod\watcher.py
+fl=(611) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\config.py
+fl=(390) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\main.py
+fl=(687) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\supervisors\watchgodreload.py
+fl=(395) C:\Program Files\Python37\lib\multiprocessing\connection.py
+fl=(93) <frozen importlib._bootstrap>
+fl=(30) <frozen importlib._bootstrap_external>
+fl=(194) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\_compat.py
+fl=(690) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\watchgod\watcher.py
+fl=(392) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\supervisors\multiprocess.py
+fl=(394) C:\Program Files\Python37\lib\multiprocessing\context.py
+fl=(688) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\supervisors\watchgodreload.py
+fl=(393) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\subprocess.py
+fl=(391) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\supervisors\__init__.py
+fl=(618) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\termui.py
+fl=(816) C:\Program Files\Python37\lib\multiprocessing\connection.py
+fl=(818) C:\Program Files\Python37\lib\multiprocessing\connection.py
+fl=(814) C:\Program Files\Python37\lib\multiprocessing\resource_sharer.py
+fl=(813) C:\Program Files\Python37\lib\threading.py
+fl=(817) C:\Program Files\Python37\lib\multiprocessing\connection.py
+fl=(411) C:\Program Files\Python37\lib\multiprocessing\connection.py
+fl=(681) C:\Program Files\Python37\lib\genericpath.py
+fl=(540) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\config.py
+fl=(466) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\watchgod\main.py
+fl=(460) C:\Program Files\Python37\lib\typing.py
+fl=(142) C:\Program Files\Python37\lib\sre_parse.py
+fl=(590) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(403) C:\Program Files\Python37\lib\multiprocessing\util.py
+fl=(692) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\supervisors\basereload.py
+fl=(669) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\supervisors\watchgodreload.py
+fl=(763) C:\Program Files\Python37\lib\multiprocessing\resource_sharer.py
+fl=(305) C:\Program Files\Python37\lib\functools.py
+fl=(261) C:\Program Files\Python37\lib\ctypes\wintypes.py
+fl=(172) C:\Program Files\Python37\lib\sre_compile.py
+fl=(132) C:\Program Files\Python37\lib\types.py
+fl=(341) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\types.py
+fl=(101) C:\Program Files\Python37\lib\logging\handlers.py
+fl=(661) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\logging.py
+fl=(179) C:\Program Files\Python37\lib\enum.py
+fl=(471) C:\Program Files\Python37\lib\typing.py
+fl=(89) <frozen importlib._bootstrap_external>
+fl=(223) C:\Program Files\Python37\lib\ctypes\__init__.py
+fl=(777) C:\Program Files\Python37\lib\tempfile.py
+fl=(19) <frozen importlib._bootstrap>
+fl=(328) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\parser.py
+fl=(577) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(355) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\core.py
+fl=(783) C:\Program Files\Python37\lib\random.py
+fl=(361) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\importer.py
+fl=(505) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\decorators.py
+fl=(671) C:\Program Files\Python37\lib\ntpath.py
+fl=(221) C:\Program Files\Python37\lib\ctypes\__init__.py
+fl=(639) C:\Program Files\Python37\lib\threading.py
+fl=(64) <frozen importlib._bootstrap_external>
+fl=(722) C:\Program Files\Python37\lib\pkgutil.py
+fl=(475) C:\Program Files\Python37\lib\typing.py
+fl=(296) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\winterm.py
+fl=(236) C:\Program Files\Python37\lib\ctypes\__init__.py
+fl=(108) C:\Program Files\Python37\lib\logging\handlers.py
+fl=(337) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\types.py
+fl=(723) C:\Program Files\Python37\lib\runpy.py
+fl=(790) C:\Program Files\Python37\lib\ntpath.py
+fl=(202) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\_compat.py
+fl=(734) C:\Program Files\Python37\lib\ntpath.py
+fl=(560) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(412) C:\Program Files\Python37\lib\multiprocessing\reduction.py
+fl=(686) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\watchgod\watcher.py
+fl=(312) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\globals.py
+fl=(63) <frozen importlib._bootstrap_external>
+fl=(398) C:\Program Files\Python37\lib\weakref.py
+fl=(106) C:\Program Files\Python37\lib\logging\handlers.py
+fl=(507) C:\Program Files\Python37\lib\inspect.py
+fl=(405) C:\Program Files\Python37\lib\multiprocessing\connection.py
+fl=(245) C:\Program Files\Python37\lib\ctypes\__init__.py
+fl=(365) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\middleware\asgi2.py
+fl=(141) C:\Program Files\Python37\lib\sre_parse.py
+fl=(662) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(349) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\types.py
+fl=(609) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\main.py
+fl=(557) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(259) C:\Program Files\Python37\lib\ctypes\wintypes.py
+fl=(356) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\core.py
+fl=(739) C:\Program Files\Python37\lib\subprocess.py
+fl=(138) C:\Program Files\Python37\lib\sre_parse.py
+fl=(583) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(227) C:\Program Files\Python37\lib\ctypes\__init__.py
+fl=(724) C:\Program Files\Python37\lib\runpy.py
+fl=(334) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\types.py
+fl=(231) C:\Program Files\Python37\lib\ctypes\__init__.py
+fl=(419) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\watchgod\main.py
+fl=(807) C:\Program Files\Python37\lib\threading.py
+fl=(658) C:\Program Files\Python37\lib\copy.py
+fl=(526) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\decorators.py
+fl=(731) C:\Program Files\Python37\lib\multiprocessing\process.py
+fl=(802) C:\Program Files\Python37\lib\threading.py
+fl=(420) C:\Program Files\Python37\lib\concurrent\futures\__init__.py
+fl=(173) C:\Program Files\Python37\lib\sre_compile.py
+fl=(485) C:\Program Files\Python37\lib\distutils\version.py
+fl=(282) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\ansi.py
+fl=(145) C:\Program Files\Python37\lib\sre_parse.py
+fl=(605) C:\Program Files\Python37\lib\logging\config.py
+fl=(746) C:\Program Files\Python37\lib\multiprocessing\util.py
+fl=(70) <frozen importlib._bootstrap_external>
+fl=(716) C:\Program Files\Python37\lib\collections\__init__.py
+fl=(98) C:\Program Files\Python37\lib\logging\handlers.py
+fl=(525) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\decorators.py
+fl=(345) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\types.py
+fl=(559) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(579) C:\Program Files\Python37\lib\logging\config.py
+fl=(274) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\_winconsole.py
+fl=(152) C:\Program Files\Python37\lib\sre_parse.py
+fl=(776) C:\Program Files\Python37\lib\tempfile.py
+fl=(436) C:\Program Files\Python37\lib\enum.py
+fl=(191) C:\Program Files\Python37\lib\logging\config.py
+fl=(317) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\exceptions.py
+fl=(350) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\formatting.py
+fl=(82) <frozen importlib._bootstrap_external>
+fl=(406) C:\Program Files\Python37\lib\multiprocessing\connection.py
+fl=(594) C:\Program Files\Python37\lib\weakref.py
+fl=(518) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\decorators.py
+fl=(631) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(3) <frozen importlib._bootstrap>
+fl=(161) C:\Program Files\Python37\lib\sre_compile.py
+fl=(100) C:\Program Files\Python37\lib\logging\handlers.py
+fl=(434) C:\Program Files\Python37\lib\enum.py
+fl=(677) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\watchgod\watcher.py
+fl=(124) C:\Program Files\Python37\lib\socketserver.py
+fl=(844) C:\Program Files\Python37\lib\contextlib.py
+fl=(203) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\_compat.py
+fl=(378) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(31) <frozen importlib._bootstrap_external>
+fl=(285) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\ansi.py
+fl=(189) C:\Program Files\Python37\lib\sre_compile.py
+fl=(396) C:\Program Files\Python37\lib\multiprocessing\util.py
+fl=(612) C:\Program Files\Python37\lib\socket.py
+fl=(240) C:\Program Files\Python37\lib\ctypes\__init__.py
+fl=(546) C:\Program Files\Python37\lib\logging\config.py
+fl=(537) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\main.py
+fl=(673) C:\Program Files\Python37\lib\ntpath.py
+fl=(372) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\middleware\proxy_headers.py
+fl=(749) C:\Program Files\Python37\lib\multiprocessing\reduction.py
+fl=(812) C:\Program Files\Python37\lib\threading.py
+fl=(288) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\ansi.py
+fl=(183) C:\Program Files\Python37\lib\logging\config.py
+fl=(821) C:\Program Files\Python37\lib\threading.py
+fl=(782) C:\Program Files\Python37\lib\random.py
+fl=(62) <frozen importlib._bootstrap_external>
+fl=(675) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\supervisors\watchgodreload.py
+fl=(119) C:\Program Files\Python37\lib\socketserver.py
+fl=(49) <frozen importlib._bootstrap>
+fl=(536) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\core.py
+fl=(370) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\middleware\message_logger.py
+fl=(453) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(291) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\win32.py
+fl=(572) C:\Program Files\Python37\lib\logging\config.py
+fl=(269) C:\Program Files\Python37\lib\ctypes\__init__.py
+fl=(163) C:\Program Files\Python37\lib\sre_compile.py
+fl=(489) C:\Program Files\Python37\lib\distutils\version.py
+fl=(697) C:\Program Files\Python37\lib\enum.py
+fl=(4) <frozen importlib._bootstrap>
+fl=(836) C:\Program Files\Python37\lib\threading.py
+fl=(840) C:\Program Files\Python37\lib\multiprocessing\popen_spawn_win32.py
+fl=(773) C:\Program Files\Python37\lib\multiprocessing\util.py
+fl=(315) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\utils.py
+fl=(478) C:\Program Files\Python37\lib\typing.py
+fl=(711) C:\Program Files\Python37\lib\pkgutil.py
+fl=(273) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\_winconsole.py
+fl=(387) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(446) C:\Program Files\Python37\lib\enum.py
+fl=(703) C:\Program Files\Python37\lib\_weakrefset.py
+fl=(517) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\types.py
+fl=(625) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(16) <frozen importlib._bootstrap>
+fl=(198) C:\Program Files\Python37\lib\os.py
+fl=(738) C:\Program Files\Python37\lib\multiprocessing\spawn.py
+fl=(364) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\middleware\asgi2.py
+fl=(641) C:\Program Files\Python37\lib\multiprocessing\process.py
+fl=(99) C:\Program Files\Python37\lib\logging\handlers.py
+fl=(48) <frozen importlib._bootstrap>
+fl=(637) C:\Program Files\Python37\lib\genericpath.py
+fl=(717) <string>
+fl=(513) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\core.py
+fl=(37) <frozen importlib._bootstrap_external>
+fl=(622) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(481) C:\Program Files\Python37\lib\typing.py
+fl=(448) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\watchgod\watcher.py
+fl=(561) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(41) <frozen importlib._bootstrap>
+fl=(153) C:\Program Files\Python37\lib\sre_parse.py
+fl=(801) C:\Program Files\Python37\lib\threading.py
+fl=(379) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(786) C:\Program Files\Python37\lib\random.py
+fl=(771) C:\Program Files\Python37\lib\multiprocessing\resource_sharer.py
+fl=(565) C:\Program Files\Python37\lib\logging\config.py
+fl=(601) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(548) C:\Program Files\Python37\lib\logging\config.py
+fl=(253) C:\Program Files\Python37\lib\ctypes\_endian.py
+fl=(229) C:\Program Files\Python37\lib\ctypes\__init__.py
+fl=(160) C:\Program Files\Python37\lib\sre_compile.py
+fl=(283) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\ansi.py
+fl=(366) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\middleware\debug.py
+fl=(320) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\exceptions.py
+fl=(472) C:\Program Files\Python37\lib\typing.py
+fl=(638) C:\Program Files\Python37\lib\threading.py
+fl=(551) C:\Program Files\Python37\lib\logging\config.py
+fl=(754) C:\Program Files\Python37\lib\enum.py
+fl=(347) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\types.py
+fl=(533) C:\Program Files\Python37\lib\inspect.py
+fl=(102) C:\Program Files\Python37\lib\logging\handlers.py
+fl=(793) C:\Program Files\Python37\lib\multiprocessing\connection.py
+fl=(79) <frozen importlib._bootstrap_external>
+fl=(76) <frozen importlib._bootstrap_external>
+fl=(216) C:\Program Files\Python37\lib\ctypes\__init__.py
+fl=(248) C:\Program Files\Python37\lib\ctypes\__init__.py
+fl=(470) C:\Program Files\Python37\lib\typing.py
+fl=(204) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\_compat.py
+fl=(230) C:\Program Files\Python37\lib\ctypes\__init__.py
+fl=(774) C:\Program Files\Python37\lib\multiprocessing\connection.py
+fl=(794) C:\Program Files\Python37\lib\multiprocessing\connection.py
+fl=(381) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(293) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\winterm.py
+fl=(674) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\supervisors\watchgodreload.py
+fl=(333) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\types.py
+fl=(704) C:\Program Files\Python37\lib\multiprocessing\process.py
+fl=(440) C:\Program Files\Python37\lib\enum.py
+fl=(757) C:\Program Files\Python37\lib\multiprocessing\resource_sharer.py
+fl=(574) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\logging.py
+fl=(383) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(503) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\decorators.py
+fl=(210) <frozen importlib._bootstrap_external>
+fl=(725) C:\Program Files\Python37\lib\runpy.py
+fl=(838) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\supervisors\basereload.py
+fl=(279) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\ansitowin32.py
+fl=(357) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\core.py
+fl=(742) C:\Program Files\Python37\lib\multiprocessing\spawn.py
+fl=(659) C:\Program Files\Python37\lib\copyreg.py
+fl=(424) C:\Program Files\Python37\lib\concurrent\futures\thread.py
+fl=(458) C:\Program Files\Python37\lib\typing.py
+fl=(156) C:\Program Files\Python37\lib\sre_compile.py
+fl=(473) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\watchgod\main.py
+fl=(635) C:\Program Files\Python37\lib\ntpath.py
+fl=(327) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\parser.py
+fl=(607) C:\Program Files\Python37\lib\_collections_abc.py
+fl=(648) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(633) C:\Program Files\Python37\lib\ntpath.py
+fl=(196) C:\Program Files\Python37\lib\os.py
+fl=(326) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\formatting.py
+fl=(522) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\decorators.py
+fl=(371) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\middleware\message_logger.py
+fl=(643) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(254) C:\Program Files\Python37\lib\ctypes\_endian.py
+fl=(232) C:\Program Files\Python37\lib\ctypes\__init__.py
+fl=(143) C:\Program Files\Python37\lib\sre_parse.py
+fl=(499) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\types.py
+fl=(706) C:\Program Files\Python37\lib\multiprocessing\process.py
+fl=(352) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\core.py
+fl=(382) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(286) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\ansi.py
+fl=(520) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\core.py
+fl=(545) C:\Program Files\Python37\lib\logging\config.py
+fl=(766) C:\Program Files\Python37\lib\socket.py
+fl=(129) C:\Program Files\Python37\lib\socketserver.py
+fl=(168) C:\Program Files\Python37\lib\sre_compile.py
+fl=(184) C:\Program Files\Python37\lib\logging\config.py
+fl=(386) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(166) C:\Program Files\Python37\lib\sre_compile.py
+fl=(77) <frozen importlib._bootstrap_external>
+fl=(43) <frozen importlib._bootstrap>
+fl=(270) C:\Program Files\Python37\lib\ctypes\__init__.py
+fl=(208) <frozen importlib._bootstrap_external>
+fl=(131) C:\Program Files\Python37\lib\re.py
+fl=(454) C:\Program Files\Python37\lib\typing.py
+fl=(444) C:\Program Files\Python37\lib\enum.py
+fl=(46) <frozen importlib._bootstrap>
+fl=(780) C:\Program Files\Python37\lib\tempfile.py
+fl=(415) C:\Program Files\Python37\lib\multiprocessing\context.py
+fl=(6) <frozen importlib._bootstrap>
+fl=(95) C:\Program Files\Python37\lib\logging\handlers.py
+fl=(139) C:\Program Files\Python37\lib\sre_parse.py
+fl=(389) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\config.py
+fl=(147) C:\Program Files\Python37\lib\sre_parse.py
+fl=(96) C:\Program Files\Python37\lib\logging\handlers.py
+fl=(222) C:\Program Files\Python37\lib\ctypes\__init__.py
+fl=(587) C:\Program Files\Python37\lib\threading.py
+fl=(791) C:\Program Files\Python37\lib\tempfile.py
+fl=(66) <frozen importlib._bootstrap_external>
+fl=(491) C:\Program Files\Python37\lib\distutils\version.py
+fl=(367) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\middleware\debug.py
+fl=(123) C:\Program Files\Python37\lib\socketserver.py
+fl=(806) C:\Program Files\Python37\lib\threading.py
+fl=(264) C:\Program Files\Python37\lib\ctypes\wintypes.py
+fl=(651) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(640) C:\Program Files\Python37\lib\multiprocessing\process.py
+fl=(316) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\exceptions.py
+fl=(600) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(400) C:\Program Files\Python37\lib\multiprocessing\util.py
+fl=(553) C:\Program Files\Python37\lib\weakref.py
+fl=(829) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\supervisors\basereload.py
+fl=(348) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\types.py
+fl=(181) C:\Program Files\Python37\lib\logging\config.py
+fl=(728) C:\Program Files\Python37\lib\multiprocessing\popen_spawn_win32.py
+fl=(310) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\exceptions.py
+fl=(343) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\types.py
+fl=(568) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\logging.py
+fl=(266) C:\Program Files\Python37\lib\ctypes\wintypes.py
+fl=(426) C:\Program Files\Python37\lib\enum.py
+fl=(431) C:\Program Files\Python37\lib\enum.py
+fl=(490) C:\Program Files\Python37\lib\distutils\version.py
+fl=(294) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\winterm.py
+fl=(376) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\middleware\wsgi.py
+fl=(226) C:\Program Files\Python37\lib\ctypes\__init__.py
+fl=(137) C:\Program Files\Python37\lib\sre_parse.py
+fl=(634) C:\Program Files\Python37\lib\ntpath.py
+fl=(177) C:\Program Files\Python37\lib\enum.py
+fl=(764) C:\Program Files\Python37\lib\socket.py
+fl=(190) C:\Program Files\Python37\lib\sre_parse.py
+fl=(483) C:\Program Files\Python37\lib\distutils\__init__.py
+fl=(318) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\exceptions.py
+fl=(486) C:\Program Files\Python37\lib\distutils\version.py
+fl=(566) C:\Program Files\Python37\lib\logging\config.py
+fl=(263) C:\Program Files\Python37\lib\ctypes\wintypes.py
+fl=(39) <frozen importlib._bootstrap_external>
+fl=(450) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\watchgod\watcher.py
+fl=(225) C:\Program Files\Python37\lib\ctypes\__init__.py
+fl=(730) C:\Program Files\Python37\lib\multiprocessing\spawn.py
+fl=(837) C:\Program Files\Python37\lib\threading.py
+fl=(588) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(767) C:\Program Files\Python37\lib\socket.py
+fl=(34) <frozen importlib._bootstrap>
+fl=(244) C:\Program Files\Python37\lib\ctypes\__init__.py
+fl=(660) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\logging.py
+fl=(360) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\decorators.py
+fl=(323) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\exceptions.py
+fl=(416) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\supervisors\multiprocess.py
+fl=(531) C:\Program Files\Python37\lib\inspect.py
+fl=(494) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\supervisors\basereload.py
+fl=(592) C:\Program Files\Python37\lib\weakref.py
+fl=(201) C:\Program Files\Python37\lib\sre_compile.py
+fl=(753) C:\Program Files\Python37\lib\enum.py
+fl=(422) C:\Program Files\Python37\lib\concurrent\futures\thread.py
+fl=(528) C:\Program Files\Python37\lib\inspect.py
+fl=(414) C:\Program Files\Python37\lib\multiprocessing\context.py
+fl=(430) C:\Program Files\Python37\lib\enum.py
+fl=(435) C:\Program Files\Python37\lib\enum.py
+fl=(487) C:\Program Files\Python37\lib\distutils\version.py
+fl=(451) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\watchgod\watcher.py
+fl=(476) C:\Program Files\Python37\lib\typing.py
+fl=(797) C:\Program Files\Python37\lib\multiprocessing\util.py
+fl=(529) C:\Program Files\Python37\lib\inspect.py
+fl=(465) C:\Program Files\Python37\lib\typing.py
+fl=(569) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\logging.py
+fl=(200) C:\Program Files\Python37\lib\sre_parse.py
+fl=(798) C:\Program Files\Python37\lib\multiprocessing\connection.py
+fl=(44) <frozen importlib._bootstrap_external>
+fl=(501) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\decorators.py
+fl=(219) C:\Program Files\Python37\lib\ctypes\__init__.py
+fl=(535) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\core.py
+fl=(38) <frozen importlib._bootstrap_external>
+fl=(549) C:\Program Files\Python37\lib\logging\config.py
+fl=(657) C:\Program Files\Python37\lib\copyreg.py
+fl=(91) C:\Program Files\Python37\lib\logging\config.py
+fl=(268) C:\Program Files\Python37\lib\ctypes\wintypes.py
+fl=(185) C:\Program Files\Python37\lib\sre_parse.py
+fl=(747) C:\Program Files\Python37\lib\multiprocessing\context.py
+fl=(213) C:\Program Files\Python37\lib\ctypes\__init__.py
+fl=(45) <frozen importlib._bootstrap>
+fl=(197) C:\Program Files\Python37\lib\os.py
+fl=(417) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\supervisors\watchgodreload.py
+fl=(760) C:\Program Files\Python37\lib\multiprocessing\resource_sharer.py
+fl=(281) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\ansi.py
+fl=(324) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\exceptions.py
+fl=(433) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\watchgod\watcher.py
+fl=(178) C:\Program Files\Python37\lib\enum.py
+fl=(304) C:\Program Files\Python37\lib\functools.py
+fl=(174) C:\Program Files\Python37\lib\sre_parse.py
+fl=(620) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(628) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(741) C:\Program Files\Python37\lib\multiprocessing\popen_spawn_win32.py
+fl=(649) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(359) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\core.py
+fl=(234) C:\Program Files\Python37\lib\ctypes\__init__.py
+fl=(834) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\logging.py
+fl=(346) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\types.py
+fl=(329) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\parser.py
+fl=(737) C:\Program Files\Python37\lib\multiprocessing\spawn.py
+fl=(363) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\middleware\__init__.py
+fl=(206) C:\Program Files\Python37\lib\ctypes\__init__.py
+fl=(564) C:\Program Files\Python37\lib\logging\config.py
+fl=(212) C:\Program Files\Python37\lib\ctypes\__init__.py
+fl=(534) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\_unicodefun.py
+fl=(252) <frozen importlib._bootstrap>
+fl=(654) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\logging.py
+fl=(353) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\core.py
+fl=(187) C:\Program Files\Python37\lib\sre_parse.py
+fl=(515) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\parser.py
+fl=(647) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(136) C:\Program Files\Python37\lib\sre_parse.py
+fl=(275) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\_winconsole.py
+fl=(597) C:\Program Files\Python37\lib\logging\config.py
+fl=(523) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\core.py
+fl=(666) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\supervisors\basereload.py
+fl=(570) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\logging.py
+fl=(354) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\core.py
+fl=(338) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\types.py
+fl=(702) C:\Program Files\Python37\lib\multiprocessing\process.py
+fl=(464) C:\Program Files\Python37\lib\typing.py
+fl=(644) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(117) C:\Program Files\Python37\lib\socketserver.py
+fl=(576) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(111) <frozen importlib._bootstrap>
+fl=(120) C:\Program Files\Python37\lib\socketserver.py
+fl=(51) <frozen importlib._bootstrap_external>
+fl=(804) C:\Program Files\Python37\lib\threading.py
+fl=(375) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\middleware\wsgi.py
+fl=(260) C:\Program Files\Python37\lib\ctypes\wintypes.py
+fl=(78) <frozen importlib._bootstrap_external>
+fl=(262) C:\Program Files\Python37\lib\ctypes\wintypes.py
+fl=(24) <frozen importlib._bootstrap_external>
+fl=(700) C:\Program Files\Python37\lib\multiprocessing\process.py
+fl=(258) C:\Program Files\Python37\lib\ctypes\wintypes.py
+fl=(15) <frozen importlib._bootstrap>
+fl=(751) C:\Program Files\Python37\lib\multiprocessing\process.py
+fl=(809) C:\Program Files\Python37\lib\threading.py
+fl=(629) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(319) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\exceptions.py
+fl=(384) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(250) C:\Program Files\Python37\lib\ctypes\__init__.py
+fl=(180) C:\Program Files\Python37\lib\logging\config.py
+fl=(719) C:\Program Files\Python37\lib\functools.py
+fl=(92) C:\Program Files\Python37\lib\logging\handlers.py
+fl=(740) C:\Program Files\Python37\lib\subprocess.py
+fl=(109) <frozen importlib._bootstrap>
+fl=(255) C:\Program Files\Python37\lib\ctypes\__init__.py
+fl=(624) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(833) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(636) C:\Program Files\Python37\lib\ntpath.py
+fl=(115) <frozen importlib._bootstrap>
+fl=(103) C:\Program Files\Python37\lib\logging\handlers.py
+fl=(449) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\watchgod\watcher.py
+fl=(439) C:\Program Files\Python37\lib\enum.py
+fl=(726) C:\Program Files\Python37\lib\multiprocessing\popen_spawn_win32.py
+fl=(563) C:\Program Files\Python37\lib\logging\config.py
+fl=(18) <frozen importlib._bootstrap>
+fl=(756) C:\Program Files\Python37\lib\multiprocessing\reduction.py
+fl=(321) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\exceptions.py
+fl=(149) C:\Program Files\Python37\lib\sre_parse.py
+fl=(159) C:\Program Files\Python37\lib\sre_compile.py
+fl=(423) C:\Program Files\Python37\lib\concurrent\futures\thread.py
+fl=(696) C:\Program Files\Python37\lib\signal.py
+fl=(284) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\ansi.py
+fl=(459) C:\Program Files\Python37\lib\typing.py
+fl=(474) C:\Program Files\Python37\lib\typing.py
+fl=(768) C:\Program Files\Python37\lib\socket.py
+fl=(332) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\termui.py
+fl=(154) C:\Program Files\Python37\lib\sre_parse.py
+fl=(650) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(441) C:\Program Files\Python37\lib\enum.py
+fl=(733) C:\Program Files\Python37\lib\multiprocessing\context.py
+fl=(224) C:\Program Files\Python37\lib\ctypes\__init__.py
+fl=(627) C:\Program Files\Python37\lib\ntpath.py
+fl=(480) C:\Program Files\Python37\lib\typing.py
+fl=(589) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(839) C:\Program Files\Python37\lib\multiprocessing\process.py
+fl=(425) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\watchgod\watcher.py
+fl=(228) C:\Program Files\Python37\lib\ctypes\__init__.py
+fl=(140) C:\Program Files\Python37\lib\sre_parse.py
+fl=(351) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\core.py
+fl=(404) C:\Program Files\Python37\lib\multiprocessing\connection.py
+fl=(488) C:\Program Files\Python37\lib\enum.py
+fl=(469) C:\Program Files\Python37\lib\typing.py
+fl=(311) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\utils.py
+fl=(761) C:\Program Files\Python37\lib\multiprocessing\util.py
+fl=(409) C:\Program Files\Python37\lib\multiprocessing\connection.py
+fl=(278) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\initialise.py
+fl=(538) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\main.py
+fl=(482) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\watchgod\version.py
+fl=(272) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\_winconsole.py
+fl=(556) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(377) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(369) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\middleware\debug.py
+fl=(207) <frozen importlib._bootstrap_external>
+fl=(608) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\main.py
+fl=(693) C:\Program Files\Python37\lib\signal.py
+fl=(755) C:\Program Files\Python37\lib\multiprocessing\reduction.py
+fl=(463) C:\Program Files\Python37\lib\typing.py
+fl=(803) C:\Program Files\Python37\lib\threading.py
+fl=(237) C:\Program Files\Python37\lib\ctypes\__init__.py
+fl=(461) C:\Program Files\Python37\lib\typing.py
+fl=(712) C:\Program Files\Python37\lib\collections\__init__.py
+fl=(308) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\_compat.py
+fl=(410) C:\Program Files\Python37\lib\multiprocessing\connection.py
+fl=(615) C:\Program Files\Python37\lib\socket.py
+fl=(295) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\winterm.py
+fl=(599) C:\Program Files\Python37\lib\logging\config.py
+fl=(335) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\types.py
+fl=(29) <frozen importlib._bootstrap_external>
+fl=(678) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\watchgod\watcher.py
+fl=(718) C:\Program Files\Python37\lib\functools.py
+fl=(362) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\importer.py
+fl=(524) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\core.py
+fl=(53) <frozen importlib._bootstrap_external>
+fl=(665) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\supervisors\watchgodreload.py
+fl=(182) C:\Program Files\Python37\lib\logging\config.py
+fl=(251) C:\Program Files\Python37\lib\ctypes\_endian.py
+fl=(800) C:\Program Files\Python37\lib\threading.py
+fl=(134) C:\Program Files\Python37\lib\sre_compile.py
+fl=(407) C:\Program Files\Python37\lib\multiprocessing\connection.py
+fl=(331) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\parser.py
+fl=(188) C:\Program Files\Python37\lib\sre_parse.py
+fl=(619) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\config.py
+fl=(249) C:\Program Files\Python37\lib\ctypes\__init__.py
+fl=(133) C:\Program Files\Python37\lib\enum.py
+fl=(573) C:\Program Files\Python37\lib\logging\config.py
+fl=(121) C:\Program Files\Python37\lib\socketserver.py
+fl=(571) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\logging.py
+fl=(694) C:\Program Files\Python37\lib\signal.py
+fl=(820) C:\Program Files\Python37\lib\threading.py
+fl=(727) C:\Program Files\Python37\lib\multiprocessing\popen_spawn_win32.py
+fl=(339) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\types.py
+fl=(550) C:\Program Files\Python37\lib\logging\config.py
+fl=(271) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\_winconsole.py
+fl=(276) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\_winconsole.py
+fl=(541) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\config.py
+fl=(785) C:\Program Files\Python37\lib\tempfile.py
+fl=(787) C:\Program Files\Python37\lib\random.py
+fl=(399) C:\Program Files\Python37\lib\weakref.py
+fl=(300) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\ansitowin32.py
+fl=(151) C:\Program Files\Python37\lib\sre_parse.py
+fl=(162) C:\Program Files\Python37\lib\sre_compile.py
+fl=(496) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\supervisors\watchgodreload.py
+fl=(752) C:\Program Files\Python37\lib\multiprocessing\context.py
+fl=(54) <frozen importlib._bootstrap_external>
+fl=(544) C:\Program Files\Python37\lib\logging\config.py
+fl=(122) C:\Program Files\Python37\lib\socketserver.py
+fl=(322) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\exceptions.py
+fl=(107) C:\Program Files\Python37\lib\logging\handlers.py
+fl=(668) C:\Program Files\Python37\lib\threading.py
+fl=(118) C:\Program Files\Python37\lib\socketserver.py
+fl=(303) C:\Program Files\Python37\lib\contextlib.py
+fl=(632) C:\Program Files\Python37\lib\ntpath.py
+fl=(729) C:\Program Files\Python37\lib\multiprocessing\spawn.py
+fl=(799) C:\Program Files\Python37\lib\threading.py
+fl=(408) C:\Program Files\Python37\lib\multiprocessing\connection.py
+fl=(421) C:\Program Files\Python37\lib\concurrent\futures\thread.py
+fl=(205) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\_winconsole.py
+fl=(427) C:\Program Files\Python37\lib\enum.py
+fl=(61) <frozen importlib._bootstrap_external>
+fl=(67) <frozen importlib._bootstrap_external>
+fl=(116) C:\Program Files\Python37\lib\socketserver.py
+fl=(130) C:\Program Files\Python37\lib\re.py
+fl=(58) <frozen importlib._bootstrap>
+fl=(344) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\types.py
+fl=(582) C:\Program Files\Python37\lib\logging\config.py
+fl=(239) C:\Program Files\Python37\lib\ctypes\__init__.py
+fl=(336) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\types.py
+fl=(374) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\middleware\wsgi.py
+fl=(512) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\core.py
+fl=(238) C:\Program Files\Python37\lib\ctypes\__init__.py
+fl=(721) C:\Program Files\Python37\lib\pkgutil.py
+fl=(220) C:\Program Files\Python37\lib\ctypes\__init__.py
+fl=(705) C:\Program Files\Python37\lib\multiprocessing\process.py
+fl=(289) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\winterm.py
+fl=(514) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\_compat.py
+fl=(604) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(242) C:\Program Files\Python37\lib\ctypes\__init__.py
+fl=(543) C:\Program Files\Python37\lib\logging\config.py
+fl=(477) C:\Program Files\Python37\lib\typing.py
+fl=(2) <frozen importlib._bootstrap>
+fl=(114) <frozen importlib._bootstrap>
+fl=(652) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(277) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\__init__.py
+fl=(267) C:\Program Files\Python37\lib\ctypes\wintypes.py
+fl=(155) C:\Program Files\Python37\lib\sre_compile.py
+fl=(157) C:\Program Files\Python37\lib\sre_parse.py
+fl=(542) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(97) C:\Program Files\Python37\lib\logging\handlers.py
+fl=(467) C:\Program Files\Python37\lib\typing.py
+fl=(621) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(330) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\parser.py
+fl=(57) <frozen importlib._bootstrap>
+fl=(586) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(144) C:\Program Files\Python37\lib\sre_parse.py
+fl=(340) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\types.py
+fl=(246) C:\Program Files\Python37\lib\ctypes\__init__.py
+fl=(218) C:\Program Files\Python37\lib\ctypes\__init__.py
+fl=(502) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\decorators.py
+fl=(720) C:\Program Files\Python37\lib\weakref.py
+fl=(623) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(710) C:\Program Files\Python37\lib\runpy.py
+fl=(126) C:\Program Files\Python37\lib\abc.py
+fl=(452) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\watchgod\watcher.py
+fl=(280) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\ansi.py
+fl=(9) <frozen importlib._bootstrap>
+fl=(462) C:\Program Files\Python37\lib\typing.py
+fl=(598) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(497) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\supervisors\watchgodreload.py
+fl=(50) <frozen importlib._bootstrap>
+fl=(81) <frozen importlib._bootstrap_external>
+fl=(781) C:\Program Files\Python37\lib\tempfile.py
+fl=(698) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\subprocess.py
+fl=(368) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\middleware\debug.py
+fl=(217) C:\Program Files\Python37\lib\ctypes\__init__.py
+fl=(309) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\_unicodefun.py
+fl=(301) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\ansitowin32.py
+fl=(113) <frozen importlib._bootstrap>
+fl=(584) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(299) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\winterm.py
+fl=(709) C:\Program Files\Python37\lib\multiprocessing\spawn.py
+fl=(810) C:\Program Files\Python37\lib\threading.py
+fl=(552) C:\Program Files\Python37\lib\_collections_abc.py
+fl=(313) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\utils.py
+fl=(708) C:\Program Files\Python37\lib\multiprocessing\popen_spawn_win32.py
+fl=(772) C:\Program Files\Python37\lib\multiprocessing\resource_sharer.py
+fl=(457) C:\Program Files\Python37\lib\typing.py
+fl=(610) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\config.py
+fl=(314) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\utils.py
+fl=(241) C:\Program Files\Python37\lib\ctypes\__init__.py
+fl=(235) C:\Program Files\Python37\lib\ctypes\__init__.py
+fl=(835) C:\Program Files\Python37\lib\threading.py
+fl=(585) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(707) C:\Program Files\Python37\lib\multiprocessing\context.py
+fl=(104) C:\Program Files\Python37\lib\logging\handlers.py
+fl=(105) C:\Program Files\Python37\lib\logging\handlers.py
+fl=(325) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\exceptions.py
+fl=(418) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\watchgod\__init__.py
+fl=(358) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\core.py
+fl=(504) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\types.py
+fl=(169) C:\Program Files\Python37\lib\sre_compile.py
+fl=(233) C:\Program Files\Python37\lib\ctypes\__init__.py
+fl=(60) <frozen importlib._bootstrap_external>
+fl=(373) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\middleware\proxy_headers.py
+fl=(413) C:\Program Files\Python37\lib\multiprocessing\context.py
+fl=(397) C:\Program Files\Python37\lib\multiprocessing\util.py
+fl=(495) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\supervisors\basereload.py
+fl=(455) C:\Program Files\Python37\lib\typing.py
+fl=(655) C:\Program Files\Python37\lib\copy.py
+fl=(468) C:\Program Files\Python37\lib\typing.py
+fl=(297) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\win32.py
+fl=(500) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\main.py
+fl=(591) C:\Program Files\Python37\lib\weakref.py
+fl=(830) C:\Program Files\Python37\lib\multiprocessing\process.py
+fl=(759) C:\Program Files\Python37\lib\multiprocessing\resource_sharer.py
+fl=(511) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\core.py
+fl=(342) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\types.py
+fl=(530) C:\Program Files\Python37\lib\inspect.py
+fl=(125) C:\Program Files\Python37\lib\socketserver.py
+fl=(438) C:\Program Files\Python37\lib\enum.py
+fl=(645) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(69) <frozen importlib._bootstrap_external>
+fl=(580) C:\Program Files\Python37\lib\logging\config.py
+fl=(667) C:\Program Files\Python37\lib\threading.py
+fl=(831) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\subprocess.py
+fl=(676) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\watchgod\watcher.py
+fl=(558) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(663) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(402) C:\Program Files\Python37\lib\multiprocessing\util.py
+fl=(555) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(292) C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\win32.py
+fl=(758) C:\Program Files\Python37\lib\multiprocessing\resource_sharer.py
+fl=(593) C:\Program Files\Python37\lib\weakref.py
+fl=(603) C:\Program Files\Python37\lib\logging\config.py
+fl=(307) C:\Program Files\Python37\lib\weakref.py
+fl=(646) C:\Program Files\Python37\lib\logging\__init__.py
+fl=(135) C:\Program Files\Python37\lib\sre_compile.py
+fl=(532) C:\Program Files\Python37\lib\inspect.py
+fl=(428) C:\Program Files\Python37\lib\enum.py
+fl=(195) C:\Program Files\Python37\lib\_collections_abc.py
+fl=(432) C:\Program Files\Python37\lib\enum.py
+fl=(748) C:\Program Files\Python37\lib\multiprocessing\reduction.py
+fl=(775) C:\Program Files\Python37\lib\multiprocessing\connection.py
+fl=(265) C:\Program Files\Python37\lib\ctypes\wintypes.py
+
+fn=(0) main c:\Users\mbila\Masaüstü\fastapi-profiling\app\main.py:10
+fn=(42) _load_unlocked <frozen importlib._bootstrap>:663
+fn=(59) SourceFileLoader.exec_module <frozen importlib._bootstrap_external>:722
+fn=(1) _find_and_load <frozen importlib._bootstrap>:978
+fn=(539) run C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\main.py:342
+fn=(75) <module> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\__init__.py:1
+fn=(26) FileFinder.find_spec <frozen importlib._bootstrap_external>:1356
+fn=(12) _find_and_load_unlocked <frozen importlib._bootstrap>:948
+fn=(22) _get_spec <frozen importlib._bootstrap_external>:1240
+fn=(21) find_spec <frozen importlib._bootstrap_external>:1272
+fn=(73) _call_with_frames_removed <frozen importlib._bootstrap>:211
+fn=(14) _find_spec <frozen importlib._bootstrap>:882
+fn=(36) _path_is_mode_type <frozen importlib._bootstrap_external>:84
+fn=(90) <module> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\config.py:1
+fn=(691) WatchGodReload.run C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\supervisors\basereload.py:40
+fn=(192) <module> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\__init__.py:6
+fn=(683) CustomWatcher._walk_dir C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\watchgod\watcher.py:43
+fn=(35) _path_isfile <frozen importlib._bootstrap_external>:93
+fn=(27) _path_stat <frozen importlib._bootstrap_external>:74
+fn=(193) <module> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\core.py:1
+fn=(828) WatchGodReload.should_restart C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\supervisors\watchgodreload.py:54
+fn=(680) CustomWatcher._walk C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\watchgod\watcher.py:28
+fn=(679) CustomWatcher.check C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\watchgod\watcher.py:51
+fn=(611) Config.bind_socket C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\config.py:315
+fn=(390) <module> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\main.py:1
+fn=(687) CustomWatcher.should_watch_file C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\supervisors\watchgodreload.py:23
+fn=(395) <module> C:\Program Files\Python37\lib\multiprocessing\connection.py:10
+fn=(93) _handle_fromlist <frozen importlib._bootstrap>:1009
+fn=(30) _path_join <frozen importlib._bootstrap_external>:56
+fn=(194) <module> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\_compat.py:2
+fn=(690) CustomWatcher._watch_file C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\watchgod\watcher.py:34
+fn=(392) <module> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\supervisors\multiprocess.py:1
+fn=(394) DefaultContext.allow_connection_pickling C:\Program Files\Python37\lib\multiprocessing\context.py:163
+fn=(688) <genexpr> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\supervisors\watchgodreload.py:24
+fn=(393) <module> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\subprocess.py:4
+fn=(391) <module> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\supervisors\__init__.py:1
+fn=(618) style C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\termui.py:433
+fn=(816) Listener.accept C:\Program Files\Python37\lib\multiprocessing\connection.py:445
+fn=(818) PipeListener._new_handle C:\Program Files\Python37\lib\multiprocessing\connection.py:644
+fn=(814) _ResourceSharer._serve C:\Program Files\Python37\lib\multiprocessing\resource_sharer.py:137
+fn=(813) Thread.run C:\Program Files\Python37\lib\threading.py:859
+fn=(817) PipeListener.accept C:\Program Files\Python37\lib\multiprocessing\connection.py:656
+fn=(411) XmlListener C:\Program Files\Python37\lib\multiprocessing\connection.py:777
+fn=(681) isfile C:\Program Files\Python37\lib\genericpath.py:27
+fn=(540) Config.__init__ C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\config.py:107
+fn=(466) awatch C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\watchgod\main.py:49
+fn=(460) _remove_dups_flatten C:\Program Files\Python37\lib\typing.py:212
+fn=(142) _parse C:\Program Files\Python37\lib\sre_parse.py:469
+fn=(590) StreamHandler.set_name C:\Program Files\Python37\lib\logging\__init__.py:818
+fn=(403) ForkAwareLocal C:\Program Files\Python37\lib\multiprocessing\util.py:385
+fn=(692) WatchGodReload.startup C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\supervisors\basereload.py:47
+fn=(669) <setcomp> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\supervisors\watchgodreload.py:32
+fn=(763) DupSocket.__init__ C:\Program Files\Python37\lib\multiprocessing\resource_sharer.py:29
+fn=(305) update_wrapper C:\Program Files\Python37\lib\functools.py:37
+fn=(261) _SMALL_RECT C:\Program Files\Python37\lib\ctypes\wintypes.py:104
+fn=(172) _compile_charset C:\Program Files\Python37\lib\sre_compile.py:249
+fn=(132) DynamicClassAttribute.__get__ C:\Program Files\Python37\lib\types.py:164
+fn=(341) IntParamType C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\types.py:260
+fn=(101) SysLogHandler C:\Program Files\Python37\lib\logging\handlers.py:692
+fn=(661) <lambda> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\logging.py:24
+fn=(179) __new__ C:\Program Files\Python37\lib\enum.py:531
+fn=(471) _subs_tvars C:\Program Files\Python37\lib\typing.py:180
+fn=(89) <setcomp> <frozen importlib._bootstrap_external>:1433
+fn=(223) c_longlong C:\Program Files\Python37\lib\ctypes\__init__.py:207
+fn=(777) _get_candidate_names C:\Program Files\Python37\lib\tempfile.py:233
+fn=(19) find_spec <frozen importlib._bootstrap>:792
+fn=(328) Option C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\parser.py:122
+fn=(577) PercentStyle.__init__ C:\Program Files\Python37\lib\logging\__init__.py:415
+fn=(355) Group C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\core.py:1331
+fn=(783) Random.seed C:\Program Files\Python37\lib\random.py:97
+fn=(361) <module> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\importer.py:1
+fn=(505) decorator C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\decorators.py:185
+fn=(671) abspath C:\Program Files\Python37\lib\ntpath.py:523
+fn=(221) c_double C:\Program Files\Python37\lib\ctypes\__init__.py:193
+fn=(639) _MainThread.name C:\Program Files\Python37\lib\threading.py:1064
+fn=(64) SourceFileLoader.get_data <frozen importlib._bootstrap_external>:914
+fn=(722) ImpLoader C:\Program Files\Python37\lib\pkgutil.py:268
+fn=(475) _VariadicGenericAlias.__getitem_inner__ C:\Program Files\Python37\lib\typing.py:765
+fn=(296) WinTerm.__init__ C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\winterm.py:24
+fn=(236) HRESULT C:\Program Files\Python37\lib\ctypes\__init__.py:405
+fn=(108) QueueListener C:\Program Files\Python37\lib\logging\handlers.py:1402
+fn=(337) UnprocessedParamType C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\types.py:103
+fn=(723) _TempModule C:\Program Files\Python37\lib\runpy.py:23
+fn=(790) join C:\Program Files\Python37\lib\ntpath.py:75
+fn=(202) _NonClosingTextIOWrapper C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\_compat.py:60
+fn=(734) isabs C:\Program Files\Python37\lib\ntpath.py:67
+fn=(560) _StderrHandler.flush C:\Program Files\Python37\lib\logging\__init__.py:1002
+fn=(412) register C:\Program Files\Python37\lib\multiprocessing\reduction.py:43
+fn=(686) CustomWatcher.should_watch_dir C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\watchgod\watcher.py:72
+fn=(312) <module> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\globals.py:1
+fn=(63) SourceFileLoader.path_stats <frozen importlib._bootstrap_external>:951
+fn=(398) __init__ C:\Program Files\Python37\lib\weakref.py:102
+fn=(106) MemoryHandler C:\Program Files\Python37\lib\logging\handlers.py:1260
+fn=(507) cleandoc C:\Program Files\Python37\lib\inspect.py:613
+fn=(405) PipeConnection C:\Program Files\Python37\lib\multiprocessing\connection.py:268
+fn=(245) WinDLL.__getitem__ C:\Program Files\Python37\lib\ctypes\__init__.py:381
+fn=(365) ASGI2Middleware C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\middleware\asgi2.py:1
+fn=(141) Tokenizer.tell C:\Program Files\Python37\lib\sre_parse.py:286
+fn=(662) DefaultFormatter.formatMessage C:\Program Files\Python37\lib\logging\__init__.py:579
+fn=(349) Tuple C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\types.py:654
+fn=(609) ServerState.__init__ C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\main.py:370
+fn=(557) NullHandler.flush C:\Program Files\Python37\lib\logging\__init__.py:905
+fn=(259) VARIANT_BOOL C:\Program Files\Python37\lib\ctypes\wintypes.py:20
+fn=(356) CommandCollection C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\core.py:1390
+fn=(739) _args_from_interpreter_flags C:\Program Files\Python37\lib\subprocess.py:272
+fn=(138) Tokenizer.__next C:\Program Files\Python37\lib\sre_parse.py:233
+fn=(583) StreamHandler.__init__ C:\Program Files\Python37\lib\logging\__init__.py:991
+fn=(227) c_char C:\Program Files\Python37\lib\ctypes\__init__.py:230
+fn=(724) _ModifiedArgv0 C:\Program Files\Python37\lib\runpy.py:46
+fn=(334) ParamType C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\types.py:17
+fn=(231) c_wchar_p C:\Program Files\Python37\lib\ctypes\__init__.py:251
+fn=(419) <module> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\watchgod\main.py:1
+fn=(807) Condition.__enter__ C:\Program Files\Python37\lib\threading.py:240
+fn=(658) _reconstruct C:\Program Files\Python37\lib\copy.py:269
+fn=(526) _make_command C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\decorators.py:80
+fn=(731) _MainProcess.authkey C:\Program Files\Python37\lib\multiprocessing\process.py:204
+fn=(802) Thread.daemon C:\Program Files\Python37\lib\threading.py:1131
+fn=(420) __getattr__ C:\Program Files\Python37\lib\concurrent\futures\__init__.py:39
+fn=(173) _simple C:\Program Files\Python37\lib\sre_compile.py:423
+fn=(485) <module> C:\Program Files\Python37\lib\distutils\version.py:27
+fn=(282) AnsiCursor C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\ansi.py:36
+fn=(145) SubPattern.append C:\Program Files\Python37\lib\sre_parse.py:172
+fn=(605) _handle_existing_loggers C:\Program Files\Python37\lib\logging\config.py:161
+fn=(746) Finalize.__init__ C:\Program Files\Python37\lib\multiprocessing\util.py:186
+fn=(70) _compile_bytecode <frozen importlib._bootstrap_external>:523
+fn=(716) <genexpr> C:\Program Files\Python37\lib\collections\__init__.py:388
+fn=(98) WatchedFileHandler C:\Program Files\Python37\lib\logging\handlers.py:414
+fn=(525) decorator C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\decorators.py:129
+fn=(345) BoolParamType C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\types.py:406
+fn=(559) NullHandler.release C:\Program Files\Python37\lib\logging\__init__.py:845
+fn=(579) DictConfigurator.configure_handler C:\Program Files\Python37\lib\logging\config.py:694
+fn=(274) _WindowsConsoleWriter C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\_winconsole.py:165
+fn=(152) SubPattern.__getitem__ C:\Program Files\Python37\lib\sre_parse.py:164
+fn=(776) mktemp C:\Program Files\Python37\lib\tempfile.py:382
+fn=(436) __new__ C:\Program Files\Python37\lib\enum.py:140
+fn=(191) DictConfigurator C:\Program Files\Python37\lib\logging\config.py:485
+fn=(317) UsageError C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\exceptions.py:45
+fn=(350) HelpFormatter C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\formatting.py:94
+fn=(82) FileFinder._fill_cache <frozen importlib._bootstrap_external>:1404
+fn=(406) Connection C:\Program Files\Python37\lib\multiprocessing\connection.py:348
+fn=(594) KeyedRef.__init__ C:\Program Files\Python37\lib\weakref.py:341
+fn=(518) _param_memo C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\decorators.py:146
+fn=(631) getLevelName C:\Program Files\Python37\lib\logging\__init__.py:117
+fn=(3) _ModuleLockManager.__enter__ <frozen importlib._bootstrap>:147
+fn=(161) _get_charset_prefix C:\Program Files\Python37\lib\sre_compile.py:492
+fn=(100) DatagramHandler C:\Program Files\Python37\lib\logging\handlers.py:650
+fn=(434) _is_dunder C:\Program Files\Python37\lib\enum.py:26
+fn=(677) <genexpr> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\watchgod\watcher.py:80
+fn=(124) StreamRequestHandler C:\Program Files\Python37\lib\socketserver.py:742
+fn=(844) _GeneratorContextManager.__exit__ C:\Program Files\Python37\lib\contextlib.py:116
+fn=(203) _FixupStream C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\_compat.py:102
+fn=(378) Manager.getLogger C:\Program Files\Python37\lib\logging\__init__.py:1216
+fn=(31) <listcomp> <frozen importlib._bootstrap_external>:58
+fn=(285) AnsiStyle C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\ansi.py:93
+fn=(189) _combine_flags C:\Program Files\Python37\lib\sre_compile.py:65
+fn=(396) <module> C:\Program Files\Python37\lib\multiprocessing\util.py:10
+fn=(612) socket.__init__ C:\Program Files\Python37\lib\socket.py:139
+fn=(240) PyDLL.__init__ C:\Program Files\Python37\lib\ctypes\__init__.py:340
+fn=(546) ConvertingDict.__getitem__ C:\Program Files\Python37\lib\logging\config.py:323
+fn=(537) ServerState C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\main.py:365
+fn=(673) normpath C:\Program Files\Python37\lib\ntpath.py:450
+fn=(372) <module> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\middleware\proxy_headers.py:10
+fn=(749) ForkingPickler.__init__ C:\Program Files\Python37\lib\multiprocessing\reduction.py:38
+fn=(812) Condition._release_save C:\Program Files\Python37\lib\threading.py:249
+fn=(288) code_to_chars C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\ansi.py:12
+fn=(183) ConvertingTuple C:\Program Files\Python37\lib\logging\config.py:345
+fn=(821) Condition.__exit__ C:\Program Files\Python37\lib\threading.py:243
+fn=(782) Random.__init__ C:\Program Files\Python37\lib\random.py:88
+fn=(62) SourceFileLoader.get_filename <frozen importlib._bootstrap_external>:909
+fn=(675) <genexpr> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\supervisors\watchgodreload.py:20
+fn=(119) UDPServer C:\Program Files\Python37\lib\socketserver.py:516
+fn=(49) ModuleSpec.has_location <frozen importlib._bootstrap>:424
+fn=(536) Command.__init__ C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\core.py:660
+fn=(370) <module> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\middleware\message_logger.py:1
+fn=(453) PlaceHolder.append C:\Program Files\Python37\lib\logging\__init__.py:1170
+fn=(291) <module> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\win32.py:4
+fn=(572) <dictcomp> C:\Program Files\Python37\lib\logging\config.py:472
+fn=(269) WINFUNCTYPE C:\Program Files\Python37\lib\ctypes\__init__.py:111
+fn=(163) _optimize_charset C:\Program Files\Python37\lib\sre_compile.py:276
+fn=(489) LooseVersion C:\Program Files\Python37\lib\distutils\version.py:267
+fn=(697) _missing_ C:\Program Files\Python37\lib\enum.py:580
+fn=(4) _get_module_lock <frozen importlib._bootstrap>:157
+fn=(836) Condition.notify_all C:\Program Files\Python37\lib\threading.py:358
+fn=(840) Popen.wait C:\Program Files\Python37\lib\multiprocessing\popen_spawn_win32.py:97
+fn=(773) debug C:\Program Files\Python37\lib\multiprocessing\util.py:48
+fn=(315) PacifyFlushWrapper C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\utils.py:433
+fn=(478) _GenericAlias.__eq__ C:\Program Files\Python37\lib\typing.py:660
+fn=(711) <module> C:\Program Files\Python37\lib\pkgutil.py:1
+fn=(273) _WindowsConsoleReader C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\_winconsole.py:130
+fn=(387) _releaseLock C:\Program Files\Python37\lib\logging\__init__.py:221
+fn=(446) <genexpr> C:\Program Files\Python37\lib\enum.py:203
+fn=(703) WeakSet.add C:\Program Files\Python37\lib\_weakrefset.py:81
+fn=(517) convert_type C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\types.py:688
+fn=(625) <lambda> C:\Program Files\Python37\lib\logging\__init__.py:154
+fn=(16) find_spec <frozen importlib._bootstrap>:719
+fn=(198) check_str C:\Program Files\Python37\lib\os.py:740
+fn=(738) <genexpr> C:\Program Files\Python37\lib\multiprocessing\spawn.py:87
+fn=(364) <module> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\middleware\asgi2.py:1
+fn=(641) _MainProcess.name C:\Program Files\Python37\lib\multiprocessing\process.py:180
+fn=(99) SocketHandler C:\Program Files\Python37\lib\logging\handlers.py:483
+fn=(48) ModuleSpec.parent <frozen importlib._bootstrap>:416
+fn=(637) _splitext C:\Program Files\Python37\lib\genericpath.py:121
+fn=(717) <module> <string>:1
+fn=(513) Option._parse_decls C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\core.py:1780
+fn=(37) FileFinder._get_spec <frozen importlib._bootstrap_external>:1351
+fn=(622) Logger.getEffectiveLevel C:\Program Files\Python37\lib\logging\__init__.py:1600
+fn=(481) <genexpr> C:\Program Files\Python37\lib\typing.py:786
+fn=(448) AllWatcher C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\watchgod\watcher.py:16
+fn=(561) _StderrHandler.stream C:\Program Files\Python37\lib\logging\__init__.py:1146
+fn=(41) ModuleSpec.__init__ <frozen importlib._bootstrap>:369
+fn=(153) SubPattern.__setitem__ C:\Program Files\Python37\lib\sre_parse.py:168
+fn=(801) _MainThread.daemon C:\Program Files\Python37\lib\threading.py:1116
+fn=(379) _acquireLock C:\Program Files\Python37\lib\logging\__init__.py:212
+fn=(786) Random.choice C:\Program Files\Python37\lib\random.py:256
+fn=(771) _ResourceSharer.register C:\Program Files\Python37\lib\multiprocessing\resource_sharer.py:73
+fn=(565) DictConfigurator.configure_custom C:\Program Files\Python37\lib\logging\config.py:465
+fn=(601) Manager._clear_cache C:\Program Files\Python37\lib\logging\__init__.py:1304
+fn=(548) ConvertingDict.convert_with_key C:\Program Files\Python37\lib\logging\config.py:290
+fn=(253) _swapped_meta C:\Program Files\Python37\lib\ctypes\_endian.py:23
+fn=(229) c_void_p C:\Program Files\Python37\lib\ctypes\__init__.py:241
+fn=(160) _get_iscased C:\Program Files\Python37\lib\sre_compile.py:453
+fn=(283) AnsiFore C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\ansi.py:49
+fn=(366) <module> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\middleware\debug.py:1
+fn=(320) NoSuchOption C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\exceptions.py:172
+fn=(472) _GenericAlias.copy_with C:\Program Files\Python37\lib\typing.py:638
+fn=(638) current_thread C:\Program Files\Python37\lib\threading.py:1225
+fn=(551) _clearExistingHandlers C:\Program Files\Python37\lib\logging\config.py:270
+fn=(754) _SSLMethod.name C:\Program Files\Python37\lib\enum.py:628
+fn=(347) File C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\types.py:440
+fn=(533) _findclass C:\Program Files\Python37\lib\inspect.py:525
+fn=(102) SMTPHandler C:\Program Files\Python37\lib\logging\handlers.py:946
+fn=(793) _validate_family C:\Program Files\Python37\lib\multiprocessing\connection.py:83
+fn=(79) FileFinder.__init__ <frozen importlib._bootstrap_external>:1319
+fn=(76) _path_hooks <frozen importlib._bootstrap_external>:1190
+fn=(216) c_short C:\Program Files\Python37\lib\ctypes\__init__.py:160
+fn=(248) CFunctionType C:\Program Files\Python37\lib\ctypes\__init__.py:99
+fn=(470) _check_generic C:\Program Files\Python37\lib\typing.py:199
+fn=(204) _AtomicFile C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\_compat.py:595
+fn=(230) c_bool C:\Program Files\Python37\lib\ctypes\__init__.py:246
+fn=(774) Listener.__init__ C:\Program Files\Python37\lib\multiprocessing\connection.py:429
+fn=(794) PipeListener.__init__ C:\Program Files\Python37\lib\multiprocessing\connection.py:633
+fn=(381) Logger.__init__ C:\Program Files\Python37\lib\logging\__init__.py:1336
+fn=(293) WinColor C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\winterm.py:6
+fn=(674) CustomWatcher.__init__ C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\supervisors\watchgodreload.py:16
+fn=(333) <module> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\types.py:1
+fn=(704) SpawnProcess.start C:\Program Files\Python37\lib\multiprocessing\process.py:101
+fn=(440) <dictcomp> C:\Program Files\Python37\lib\enum.py:157
+fn=(757) <module> C:\Program Files\Python37\lib\multiprocessing\resource_sharer.py:11
+fn=(574) DefaultFormatter.__init__ C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\logging.py:32
+fn=(383) _checkLevel C:\Program Files\Python37\lib\logging\__init__.py:187
+fn=(503) option C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\decorators.py:174
+fn=(210) ExtensionFileLoader.exec_module <frozen importlib._bootstrap_external>:1048
+fn=(725) _Error C:\Program Files\Python37\lib\runpy.py:160
+fn=(838) WatchGodReload.shutdown C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\supervisors\basereload.py:73
+fn=(279) <module> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\ansitowin32.py:2
+fn=(357) Parameter C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\core.py:1421
+fn=(742) get_executable C:\Program Files\Python37\lib\multiprocessing\spawn.py:45
+fn=(659) __newobj__ C:\Program Files\Python37\lib\copyreg.py:87
+fn=(424) ThreadPoolExecutor C:\Program Files\Python37\lib\concurrent\futures\thread.py:108
+fn=(458) <genexpr> C:\Program Files\Python37\lib\typing.py:351
+fn=(156) _compile_info C:\Program Files\Python37\lib\sre_compile.py:536
+fn=(473) correct_aiter C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\watchgod\main.py:42
+fn=(635) splitdrive C:\Program Files\Python37\lib\ntpath.py:122
+fn=(327) <module> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\parser.py:20
+fn=(607) _Environ.get C:\Program Files\Python37\lib\_collections_abc.py:657
+fn=(648) StreamHandler.format C:\Program Files\Python37\lib\logging\__init__.py:858
+fn=(633) split C:\Program Files\Python37\lib\ntpath.py:178
+fn=(196) _Environ.__getitem__ C:\Program Files\Python37\lib\os.py:676
+fn=(326) <module> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\formatting.py:1
+fn=(522) decorator C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\decorators.py:166
+fn=(371) MessageLoggerMiddleware C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\middleware\message_logger.py:26
+fn=(643) Logger.handle C:\Program Files\Python37\lib\logging\__init__.py:1516
+fn=(254) BigEndianStructure C:\Program Files\Python37\lib\ctypes\_endian.py:46
+fn=(232) c_wchar C:\Program Files\Python37\lib\ctypes\__init__.py:256
+fn=(143) SubPattern.__init__ C:\Program Files\Python37\lib\sre_parse.py:111
+fn=(499) Choice.__init__ C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\types.py:156
+fn=(706) _cleanup C:\Program Files\Python37\lib\multiprocessing\process.py:53
+fn=(352) BaseCommand C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\core.py:631
+fn=(382) Logger.__init__ C:\Program Files\Python37\lib\logging\__init__.py:716
+fn=(286) AnsiFore.__init__ C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\ansi.py:26
+fn=(520) <lambda> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\core.py:1807
+fn=(545) DictConfigurator.configure C:\Program Files\Python37\lib\logging\config.py:491
+fn=(766) socket.family C:\Program Files\Python37\lib\socket.py:432
+fn=(129) DatagramRequestHandler C:\Program Files\Python37\lib\socketserver.py:806
+fn=(168) <listcomp> C:\Program Files\Python37\lib\sre_compile.py:413
+fn=(184) BaseConfigurator C:\Program Files\Python37\lib\logging\config.py:352
+fn=(386) PlaceHolder.__init__ C:\Program Files\Python37\lib\logging\__init__.py:1164
+fn=(166) _mk_bitmap C:\Program Files\Python37\lib\sre_compile.py:411
+fn=(77) path_hook_for_FileFinder <frozen importlib._bootstrap_external>:1445
+fn=(43) module_from_spec <frozen importlib._bootstrap>:576
+fn=(270) WinFunctionType C:\Program Files\Python37\lib\ctypes\__init__.py:123
+fn=(208) ExtensionFileLoader.create_module <frozen importlib._bootstrap_external>:1040
+fn=(131) _compile C:\Program Files\Python37\lib\re.py:273
+fn=(454) inner C:\Program Files\Python37\lib\typing.py:248
+fn=(444) <setcomp> C:\Program Files\Python37\lib\enum.py:182
+fn=(46) _init_module_attrs <frozen importlib._bootstrap>:504
+fn=(780) _RandomNameSequence.__next__ C:\Program Files\Python37\lib\tempfile.py:153
+fn=(415) SpawnContext._check_available C:\Program Files\Python37\lib\multiprocessing\context.py:212
+fn=(6) _ModuleLock.__init__ <frozen importlib._bootstrap>:58
+fn=(95) BaseRotatingHandler C:\Program Files\Python37\lib\logging\handlers.py:45
+fn=(139) Pattern.__init__ C:\Program Files\Python37\lib\sre_parse.py:76
+fn=(389) Config C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\config.py:106
+fn=(147) Tokenizer.match C:\Program Files\Python37\lib\sre_parse.py:249
+fn=(96) RotatingFileHandler C:\Program Files\Python37\lib\logging\handlers.py:115
+fn=(222) c_longdouble C:\Program Files\Python37\lib\ctypes\__init__.py:197
+fn=(587) RLock C:\Program Files\Python37\lib\threading.py:75
+fn=(791) _exists C:\Program Files\Python37\lib\tempfile.py:84
+fn=(66) _classify_pyc <frozen importlib._bootstrap_external>:438
+fn=(491) StrictVersion.parse C:\Program Files\Python37\lib\distutils\version.py:134
+fn=(367) HTMLResponse C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\middleware\debug.py:5
+fn=(123) BaseRequestHandler C:\Program Files\Python37\lib\socketserver.py:696
+fn=(806) Event.wait C:\Program Files\Python37\lib\threading.py:534
+fn=(264) SIZE C:\Program Files\Python37\lib\ctypes\wintypes.py:120
+fn=(651) DefaultFormatter.usesTime C:\Program Files\Python37\lib\logging\__init__.py:573
+fn=(640) current_process C:\Program Files\Python37\lib\multiprocessing\process.py:36
+fn=(316) ClickException C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\exceptions.py:13
+fn=(600) Logger.setLevel C:\Program Files\Python37\lib\logging\__init__.py:1349
+fn=(400) Finalize C:\Program Files\Python37\lib\multiprocessing\util.py:182
+fn=(553) WeakValueDictionary.popitem C:\Program Files\Python37\lib\weakref.py:253
+fn=(829) WatchGodReload.signal_handler C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\supervisors\basereload.py:28
+fn=(348) Path C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\types.py:527
+fn=(181) ConvertingDict C:\Program Files\Python37\lib\logging\config.py:320
+fn=(728) Popen.__init__ C:\Program Files\Python37\lib\multiprocessing\popen_spawn_win32.py:45
+fn=(310) <module> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\exceptions.py:1
+fn=(343) FloatParamType C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\types.py:332
+fn=(568) <module> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\logging.py:1
+fn=(266) MSG C:\Program Files\Python37\lib\ctypes\wintypes.py:133
+fn=(426) __prepare__ C:\Program Files\Python37\lib\enum.py:130
+fn=(431) _EnumDict.__setitem__ C:\Program Files\Python37\lib\enum.py:71
+fn=(490) StrictVersion.__init__ C:\Program Files\Python37\lib\distutils\version.py:38
+fn=(294) WinStyle C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\winterm.py:17
+fn=(376) WSGIResponder C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\middleware\wsgi.py:66
+fn=(226) c_byte C:\Program Files\Python37\lib\ctypes\__init__.py:225
+fn=(137) Tokenizer.__init__ C:\Program Files\Python37\lib\sre_parse.py:224
+fn=(634) _get_bothseps C:\Program Files\Python37\lib\ntpath.py:34
+fn=(177) RegexFlag.__and__ C:\Program Files\Python37\lib\enum.py:841
+fn=(764) socket.dup C:\Program Files\Python37\lib\socket.py:194
+fn=(190) _escape C:\Program Files\Python37\lib\sre_parse.py:343
+fn=(483) <module> C:\Program Files\Python37\lib\distutils\__init__.py:9
+fn=(318) BadParameter C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\exceptions.py:76
+fn=(486) Version C:\Program Files\Python37\lib\distutils\version.py:31
+fn=(566) DictConfigurator.resolve C:\Program Files\Python37\lib\logging\config.py:376
+fn=(263) POINT C:\Program Files\Python37\lib\ctypes\wintypes.py:115
+fn=(39) spec_from_file_location <frozen importlib._bootstrap_external>:574
+fn=(450) DefaultWatcher C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\watchgod\watcher.py:76
+fn=(225) c_ubyte C:\Program Files\Python37\lib\ctypes\__init__.py:218
+fn=(730) _check_not_importing_main C:\Program Files\Python37\lib\multiprocessing\spawn.py:121
+fn=(837) Condition.notify C:\Program Files\Python37\lib\threading.py:335
+fn=(588) _register_at_fork_reinit_lock C:\Program Files\Python37\lib\logging\__init__.py:232
+fn=(767) _intenum_converter C:\Program Files\Python37\lib\socket.py:97
+fn=(34) _verbose_message <frozen importlib._bootstrap>:222
+fn=(244) WinDLL.__getattr__ C:\Program Files\Python37\lib\ctypes\__init__.py:374
+fn=(660) DefaultFormatter.color_level_name C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\logging.py:39
+fn=(360) <module> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\decorators.py:1
+fn=(323) FileError C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\exceptions.py:224
+fn=(416) Multiprocess C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\supervisors\multiprocess.py:18
+fn=(531) ismethod C:\Program Files\Python37\lib\inspect.py:80
+fn=(494) <module> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\supervisors\basereload.py:1
+fn=(592) WeakValueDictionary.__setitem__ C:\Program Files\Python37\lib\weakref.py:165
+fn=(201) _generate_overlap_table C:\Program Files\Python37\lib\sre_compile.py:432
+fn=(753) _SSLMethod._reduce_ex_by_name C:\Program Files\Python37\lib\enum.py:679
+fn=(422) _WorkItem C:\Program Files\Python37\lib\concurrent\futures\thread.py:45
+fn=(528) getdoc C:\Program Files\Python37\lib\inspect.py:594
+fn=(414) DefaultContext.get_context C:\Program Files\Python37\lib\multiprocessing\context.py:186
+fn=(430) _find_data_type C:\Program Files\Python37\lib\enum.py:458
+fn=(435) _is_descriptor C:\Program Files\Python37\lib\enum.py:18
+fn=(487) StrictVersion C:\Program Files\Python37\lib\distutils\version.py:93
+fn=(451) PythonWatcher C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\watchgod\watcher.py:87
+fn=(476) <genexpr> C:\Program Files\Python37\lib\typing.py:777
+fn=(797) sub_debug C:\Program Files\Python37\lib\multiprocessing\util.py:44
+fn=(529) _finddoc C:\Program Files\Python37\lib\inspect.py:535
+fn=(465) _collect_type_vars C:\Program Files\Python37\lib\typing.py:165
+fn=(569) ColourizedFormatter C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\logging.py:12
+fn=(200) Tokenizer.getwhile C:\Program Files\Python37\lib\sre_parse.py:258
+fn=(798) Listener.address C:\Program Files\Python37\lib\multiprocessing\connection.py:468
+fn=(44) SourceFileLoader.create_module <frozen importlib._bootstrap_external>:719
+fn=(501) command C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\decorators.py:106
+fn=(219) c_ulong C:\Program Files\Python37\lib\ctypes\__init__.py:172
+fn=(535) Command.__init__ C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\core.py:865
+fn=(38) SourceFileLoader.__init__ <frozen importlib._bootstrap_external>:884
+fn=(549) DictConfigurator.convert C:\Program Files\Python37\lib\logging\config.py:437
+fn=(657) _slotnames C:\Program Files\Python37\lib\copyreg.py:96
+fn=(91) <module> C:\Program Files\Python37\lib\logging\config.py:25
+fn=(268) WIN32_FIND_DATAW C:\Program Files\Python37\lib\ctypes\wintypes.py:155
+fn=(185) Tokenizer.getuntil C:\Program Files\Python37\lib\sre_parse.py:267
+fn=(747) set_spawning_popen C:\Program Files\Python37\lib\multiprocessing\context.py:349
+fn=(213) _check_size C:\Program Files\Python37\lib\ctypes\__init__.py:139
+fn=(45) _new_module <frozen importlib._bootstrap>:35
+fn=(197) encodekey C:\Program Files\Python37\lib\os.py:746
+fn=(417) <module> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\supervisors\watchgodreload.py:1
+fn=(760) _ResourceSharer.__init__ C:\Program Files\Python37\lib\multiprocessing\resource_sharer.py:63
+fn=(281) AnsiCodes C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\ansi.py:25
+fn=(324) Abort C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\exceptions.py:239
+fn=(433) Change C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\watchgod\watcher.py:10
+fn=(178) __call__ C:\Program Files\Python37\lib\enum.py:289
+fn=(304) wraps C:\Program Files\Python37\lib\functools.py:67
+fn=(174) Pattern.groups C:\Program Files\Python37\lib\sre_parse.py:81
+fn=(620) Logger.info C:\Program Files\Python37\lib\logging\__init__.py:1368
+fn=(628) Logger.makeRecord C:\Program Files\Python37\lib\logging\__init__.py:1476
+fn=(741) <genexpr> C:\Program Files\Python37\lib\multiprocessing\popen_spawn_win32.py:54
+fn=(649) DefaultFormatter.format C:\Program Files\Python37\lib\logging\__init__.py:595
+fn=(359) Argument C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\core.py:1968
+fn=(234) PyDLL C:\Program Files\Python37\lib\ctypes\__init__.py:387
+fn=(834) <lambda> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\logging.py:26
+fn=(346) UUIDParameterType C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\types.py:423
+fn=(329) Argument C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\parser.py:168
+fn=(737) get_command_line C:\Program Files\Python37\lib\multiprocessing\spawn.py:78
+fn=(363) <module> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\middleware\__init__.py:1
+fn=(206) <module> C:\Program Files\Python37\lib\ctypes\__init__.py:1
+fn=(564) DictConfigurator.configure_formatter C:\Program Files\Python37\lib\logging\config.py:649
+fn=(212) py_object C:\Program Files\Python37\lib\ctypes\__init__.py:151
+fn=(534) _check_for_unicode_literals C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\_unicodefun.py:26
+fn=(252) _lock_unlock_module <frozen importlib._bootstrap>:194
+fn=(654) DefaultFormatter.formatMessage C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\logging.py:47
+fn=(353) Command C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\core.py:832
+fn=(187) Pattern.opengroup C:\Program Files\Python37\lib\sre_parse.py:84
+fn=(515) split_opt C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\parser.py:87
+fn=(647) StreamHandler.emit C:\Program Files\Python37\lib\logging\__init__.py:1013
+fn=(136) parse C:\Program Files\Python37\lib\sre_parse.py:913
+fn=(275) ConsoleStream C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\_winconsole.py:197
+fn=(597) DictConfigurator.configure_logger C:\Program Files\Python37\lib\logging\config.py:783
+fn=(523) Argument.__init__ C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\core.py:1978
+fn=(666) WatchGodReload.__init__ C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\supervisors\basereload.py:19
+fn=(570) DefaultFormatter C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\logging.py:60
+fn=(354) MultiCommand C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\core.py:1069
+fn=(338) StringParamType C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\types.py:113
+fn=(702) <genexpr> C:\Program Files\Python37\lib\multiprocessing\process.py:85
+fn=(464) <genexpr> C:\Program Files\Python37\lib\typing.py:618
+fn=(644) Logger.filter C:\Program Files\Python37\lib\logging\__init__.py:736
+fn=(117) BaseServer C:\Program Files\Python37\lib\socketserver.py:153
+fn=(576) DefaultFormatter.__init__ C:\Program Files\Python37\lib\logging\__init__.py:502
+fn=(111) <genexpr> <frozen importlib._bootstrap>:321
+fn=(120) ThreadingMixIn C:\Program Files\Python37\lib\socketserver.py:631
+fn=(51) _get_cached <frozen importlib._bootstrap_external>:369
+fn=(804) Thread.start C:\Program Files\Python37\lib\threading.py:834
+fn=(375) WSGIMiddleware C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\middleware\wsgi.py:55
+fn=(260) RECT C:\Program Files\Python37\lib\ctypes\wintypes.py:97
+fn=(78) _path_isdir <frozen importlib._bootstrap_external>:98
+fn=(262) _COORD C:\Program Files\Python37\lib\ctypes\wintypes.py:111
+fn=(24) _path_importer_cache <frozen importlib._bootstrap_external>:1203
+fn=(700) SpawnProcess.__init__ C:\Program Files\Python37\lib\multiprocessing\process.py:72
+fn=(258) <module> C:\Program Files\Python37\lib\ctypes\wintypes.py:2
+fn=(15) _ImportLockContext.__enter__ <frozen importlib._bootstrap>:855
+fn=(751) AuthenticationString.__reduce__ C:\Program Files\Python37\lib\multiprocessing\process.py:326
+fn=(809) Condition.wait C:\Program Files\Python37\lib\threading.py:264
+fn=(629) LogRecord.__init__ C:\Program Files\Python37\lib\logging\__init__.py:282
+fn=(319) MissingParameter C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\exceptions.py:111
+fn=(384) Manager._fixupParents C:\Program Files\Python37\lib\logging\__init__.py:1267
+fn=(250) CFunctionType C:\Program Files\Python37\lib\ctypes\__init__.py:490
+fn=(180) ConvertingMixin C:\Program Files\Python37\lib\logging\config.py:287
+fn=(719) register C:\Program Files\Python37\lib\functools.py:804
+fn=(92) <module> C:\Program Files\Python37\lib\logging\handlers.py:24
+fn=(740) _optim_args_from_interpreter_flags C:\Program Files\Python37\lib\subprocess.py:262
+fn=(109) _installed_safely.__exit__ <frozen importlib._bootstrap>:318
+fn=(255) _reset_cache C:\Program Files\Python37\lib\ctypes\__init__.py:259
+fn=(624) Logger.findCaller C:\Program Files\Python37\lib\logging\__init__.py:1446
+fn=(833) Logger.error C:\Program Files\Python37\lib\logging\__init__.py:1397
+fn=(636) splitext C:\Program Files\Python37\lib\ntpath.py:201
+fn=(115) cb <frozen importlib._bootstrap>:176
+fn=(103) NTEventLogHandler C:\Program Files\Python37\lib\logging\handlers.py:1026
+fn=(449) DefaultDirWatcher C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\watchgod\watcher.py:69
+fn=(439) __getattr__ C:\Program Files\Python37\lib\enum.py:340
+fn=(726) _path_eq C:\Program Files\Python37\lib\multiprocessing\popen_spawn_win32.py:22
+fn=(563) ConvertingDict.get C:\Program Files\Python37\lib\logging\config.py:327
+fn=(18) _ImportLockContext.__exit__ <frozen importlib._bootstrap>:859
+fn=(756) _reduce_socket C:\Program Files\Python37\lib\multiprocessing\reduction.py:230
+fn=(321) BadOptionUsage C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\exceptions.py:197
+fn=(149) _uniq C:\Program Files\Python37\lib\sre_parse.py:408
+fn=(159) _get_literal_prefix C:\Program Files\Python37\lib\sre_compile.py:461
+fn=(423) BrokenThreadPool C:\Program Files\Python37\lib\concurrent\futures\thread.py:102
+fn=(696) _int_to_enum C:\Program Files\Python37\lib\signal.py:25
+fn=(284) AnsiBack C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\ansi.py:71
+fn=(459) _type_check C:\Program Files\Python37\lib\typing.py:113
+fn=(474) _VariadicGenericAlias.__getitem__ C:\Program Files\Python37\lib\typing.py:749
+fn=(768) socket.type C:\Program Files\Python37\lib\socket.py:438
+fn=(332) <module> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\termui.py:1
+fn=(154) fix_flags C:\Program Files\Python37\lib\sre_parse.py:897
+fn=(650) LogRecord.getMessage C:\Program Files\Python37\lib\logging\__init__.py:360
+fn=(441) __setattr__ C:\Program Files\Python37\lib\enum.py:381
+fn=(733) DefaultContext.get_start_method C:\Program Files\Python37\lib\multiprocessing\context.py:248
+fn=(224) c_ulonglong C:\Program Files\Python37\lib\ctypes\__init__.py:211
+fn=(627) normcase C:\Program Files\Python37\lib\ntpath.py:44
+fn=(480) <listcomp> C:\Program Files\Python37\lib\typing.py:176
+fn=(589) StreamHandler.setFormatter C:\Program Files\Python37\lib\logging\__init__.py:899
+fn=(839) SpawnProcess.join C:\Program Files\Python37\lib\multiprocessing\process.py:133
+fn=(425) <module> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\watchgod\watcher.py:1
+fn=(228) c_char_p C:\Program Files\Python37\lib\ctypes\__init__.py:235
+fn=(140) _parse_sub C:\Program Files\Python37\lib\sre_parse.py:411
+fn=(351) Context C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\core.py:159
+fn=(404) _ConnectionBase C:\Program Files\Python37\lib\multiprocessing\connection.py:114
+fn=(488) RegexFlag.__or__ C:\Program Files\Python37\lib\enum.py:835
+fn=(469) <genexpr> C:\Program Files\Python37\lib\typing.py:634
+fn=(311) <module> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\utils.py:1
+fn=(761) register_after_fork C:\Program Files\Python37\lib\multiprocessing\util.py:171
+fn=(409) PipeListener C:\Program Files\Python37\lib\multiprocessing\connection.py:629
+fn=(278) <module> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\initialise.py:2
+fn=(538) Server C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\main.py:377
+fn=(482) <module> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\watchgod\version.py:1
+fn=(272) _WindowsConsoleRawIOBase C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\_winconsole.py:121
+fn=(556) NullHandler.acquire C:\Program Files\Python37\lib\logging\__init__.py:838
+fn=(377) getLogger C:\Program Files\Python37\lib\logging\__init__.py:1928
+fn=(369) DebugMiddleware C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\middleware\debug.py:60
+fn=(207) ExtensionFileLoader.__init__ <frozen importlib._bootstrap_external>:1029
+fn=(608) Server.__init__ C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\main.py:378
+fn=(693) signal C:\Program Files\Python37\lib\signal.py:45
+fn=(755) _reduce_method C:\Program Files\Python37\lib\multiprocessing\reduction.py:202
+fn=(463) _is_dunder C:\Program Files\Python37\lib\typing.py:595
+fn=(803) Event.is_set C:\Program Files\Python37\lib\threading.py:507
+fn=(237) OleDLL C:\Program Files\Python37\lib\ctypes\__init__.py:418
+fn=(461) _GenericAlias.__init__ C:\Program Files\Python37\lib\typing.py:608
+fn=(712) namedtuple C:\Program Files\Python37\lib\collections\__init__.py:316
+fn=(308) _make_cached_stream_func C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\_compat.py:749
+fn=(410) ConnectionWrapper C:\Program Files\Python37\lib\multiprocessing\connection.py:755
+fn=(615) socket.set_inheritable C:\Program Files\Python37\lib\socket.py:447
+fn=(295) WinTerm C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\winterm.py:22
+fn=(599) DictConfigurator.common_logger_config C:\Program Files\Python37\lib\logging\config.py:765
+fn=(335) CompositeParamType C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\types.py:79
+fn=(29) _relax_case <frozen importlib._bootstrap_external>:36
+fn=(678) CustomWatcher.__init__ C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\watchgod\watcher.py:17
+fn=(718) singledispatch C:\Program Files\Python37\lib\functools.py:763
+fn=(362) ImportFromStringError C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\importer.py:4
+fn=(524) Argument._parse_decls C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\core.py:2008
+fn=(53) cache_from_source <frozen importlib._bootstrap_external>:271
+fn=(665) WatchGodReload.__init__ C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\supervisors\watchgodreload.py:28
+fn=(182) ConvertingList C:\Program Files\Python37\lib\logging\config.py:335
+fn=(251) <module> C:\Program Files\Python37\lib\ctypes\_endian.py:1
+fn=(800) _newname C:\Program Files\Python37\lib\threading.py:728
+fn=(134) isstring C:\Program Files\Python37\lib\sre_compile.py:595
+fn=(407) Listener C:\Program Files\Python37\lib\multiprocessing\connection.py:422
+fn=(331) OptionParser C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\parser.py:195
+fn=(188) Pattern.closegroup C:\Program Files\Python37\lib\sre_parse.py:96
+fn=(619) Config.is_ssl C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\config.py:207
+fn=(249) PYFUNCTYPE C:\Program Files\Python37\lib\ctypes\__init__.py:489
+fn=(133) RegexFlag.value C:\Program Files\Python37\lib\enum.py:633
+fn=(573) valid_ident C:\Program Files\Python37\lib\logging\config.py:280
+fn=(121) ThreadingUDPServer C:\Program Files\Python37\lib\socketserver.py:681
+fn=(571) AccessFormatter C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\logging.py:65
+fn=(694) _enum_to_int C:\Program Files\Python37\lib\signal.py:35
+fn=(820) Condition._acquire_restore C:\Program Files\Python37\lib\threading.py:252
+fn=(727) Popen C:\Program Files\Python37\lib\multiprocessing\popen_spawn_win32.py:39
+fn=(339) Choice C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\types.py:137
+fn=(550) ConvertingDict.pop C:\Program Files\Python37\lib\logging\config.py:331
+fn=(271) Py_buffer C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\_winconsole.py:85
+fn=(276) WindowsChunkedWriter C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\_winconsole.py:231
+fn=(541) Config.configure_logging C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\config.py:211
+fn=(785) <listcomp> C:\Program Files\Python37\lib\tempfile.py:156
+fn=(787) Random._randbelow C:\Program Files\Python37\lib\random.py:224
+fn=(399) update C:\Program Files\Python37\lib\weakref.py:290
+fn=(300) StreamWrapper C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\ansitowin32.py:16
+fn=(151) SubPattern.__len__ C:\Program Files\Python37\lib\sre_parse.py:160
+fn=(162) _compile C:\Program Files\Python37\lib\sre_compile.py:71
+fn=(496) CustomWatcher C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\supervisors\watchgodreload.py:12
+fn=(752) get_spawning_popen C:\Program Files\Python37\lib\multiprocessing\context.py:346
+fn=(54) _path_split <frozen importlib._bootstrap_external>:62
+fn=(544) DictConfigurator.__init__ C:\Program Files\Python37\lib\logging\config.py:372
+fn=(122) ThreadingTCPServer C:\Program Files\Python37\lib\socketserver.py:682
+fn=(322) BadArgumentUsage C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\exceptions.py:212
+fn=(107) QueueHandler C:\Program Files\Python37\lib\logging\handlers.py:1333
+fn=(668) Condition.__init__ C:\Program Files\Python37\lib\threading.py:216
+fn=(118) TCPServer C:\Program Files\Python37\lib\socketserver.py:390
+fn=(303) contextmanager C:\Program Files\Python37\lib\contextlib.py:210
+fn=(632) basename C:\Program Files\Python37\lib\ntpath.py:212
+fn=(729) get_preparation_data C:\Program Files\Python37\lib\multiprocessing\spawn.py:139
+fn=(799) Thread.__init__ C:\Program Files\Python37\lib\threading.py:763
+fn=(408) SocketListener C:\Program Files\Python37\lib\multiprocessing\connection.py:569
+fn=(421) <module> C:\Program Files\Python37\lib\concurrent\futures\thread.py:4
+fn=(205) <module> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\_winconsole.py:10
+fn=(427) _EnumDict.__init__ C:\Program Files\Python37\lib\enum.py:64
+fn=(61) SourceFileLoader._check_name_wrapper <frozen importlib._bootstrap_external>:401
+fn=(67) _r_long <frozen importlib._bootstrap_external>:51
+fn=(116) <module> C:\Program Files\Python37\lib\socketserver.py:119
+fn=(130) compile C:\Program Files\Python37\lib\re.py:234
+fn=(58) _installed_safely.__enter__ <frozen importlib._bootstrap>:311
+fn=(344) FloatRange C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\types.py:347
+fn=(582) DictConfigurator.ext_convert C:\Program Files\Python37\lib\logging\config.py:399
+fn=(239) LibraryLoader.__init__ C:\Program Files\Python37\lib\ctypes\__init__.py:428
+fn=(336) FuncParamType C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\types.py:87
+fn=(374) <module> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\middleware\wsgi.py:1
+fn=(512) Option.__init__ C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\core.py:1468
+fn=(238) LibraryLoader C:\Program Files\Python37\lib\ctypes\__init__.py:427
+fn=(721) ImpImporter C:\Program Files\Python37\lib\pkgutil.py:194
+fn=(220) c_float C:\Program Files\Python37\lib\ctypes\__init__.py:189
+fn=(705) SpawnProcess._check_closed C:\Program Files\Python37\lib\multiprocessing\process.py:90
+fn=(289) <module> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\winterm.py:2
+fn=(514) <lambda> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\_compat.py:282
+fn=(604) Logger.addHandler C:\Program Files\Python37\lib\logging\__init__.py:1526
+fn=(242) LibraryLoader.__getattr__ C:\Program Files\Python37\lib\ctypes\__init__.py:431
+fn=(543) dictConfig C:\Program Files\Python37\lib\logging\config.py:798
+fn=(477) _SpecialForm.__eq__ C:\Program Files\Python37\lib\typing.py:317
+fn=(2) _ModuleLockManager.__init__ <frozen importlib._bootstrap>:143
+fn=(114) _ModuleLock.release <frozen importlib._bootstrap>:103
+fn=(652) PercentStyle.usesTime C:\Program Files\Python37\lib\logging\__init__.py:418
+fn=(277) <module> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\__init__.py:2
+fn=(267) WIN32_FIND_DATAA C:\Program Files\Python37\lib\ctypes\wintypes.py:143
+fn=(155) _code C:\Program Files\Python37\lib\sre_compile.py:598
+fn=(157) SubPattern.getwidth C:\Program Files\Python37\lib\sre_parse.py:174
+fn=(542) addLevelName C:\Program Files\Python37\lib\logging\__init__.py:140
+fn=(97) TimedRotatingFileHandler C:\Program Files\Python37\lib\logging\handlers.py:191
+fn=(467) _GenericAlias.__hash__ C:\Program Files\Python37\lib\typing.py:669
+fn=(621) Logger.isEnabledFor C:\Program Files\Python37\lib\logging\__init__.py:1614
+fn=(330) ParsingState C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\parser.py:187
+fn=(57) _installed_safely.__init__ <frozen importlib._bootstrap>:307
+fn=(586) StreamHandler.createLock C:\Program Files\Python37\lib\logging\__init__.py:831
+fn=(144) Tokenizer.get C:\Program Files\Python37\lib\sre_parse.py:254
+fn=(340) DateTime C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\types.py:208
+fn=(246) CFUNCTYPE C:\Program Files\Python37\lib\ctypes\__init__.py:73
+fn=(218) c_long C:\Program Files\Python37\lib\ctypes\__init__.py:168
+fn=(502) argument C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\decorators.py:155
+fn=(720) WeakKeyDictionary.popitem C:\Program Files\Python37\lib\weakref.py:476
+fn=(623) Logger._log C:\Program Files\Python37\lib\logging\__init__.py:1491
+fn=(710) <module> C:\Program Files\Python37\lib\runpy.py:8
+fn=(126) __new__ C:\Program Files\Python37\lib\abc.py:125
+fn=(452) RegExpWatcher C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\watchgod\watcher.py:92
+fn=(280) <module> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\ansi.py:5
+fn=(9) _ModuleLock.acquire <frozen importlib._bootstrap>:78
+fn=(462) _GenericAlias.__setattr__ C:\Program Files\Python37\lib\typing.py:709
+fn=(598) Manager._fixupChildren C:\Program Files\Python37\lib\logging\__init__.py:1291
+fn=(497) WatchGodReload C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\supervisors\watchgodreload.py:27
+fn=(50) ModuleSpec.cached <frozen importlib._bootstrap>:403
+fn=(81) <genexpr> <frozen importlib._bootstrap_external>:1325
+fn=(781) _RandomNameSequence.rng C:\Program Files\Python37\lib\tempfile.py:142
+fn=(698) get_subprocess C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\subprocess.py:14
+fn=(368) PlainTextResponse C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\middleware\debug.py:27
+fn=(217) c_ushort C:\Program Files\Python37\lib\ctypes\__init__.py:164
+fn=(309) <module> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\_unicodefun.py:1
+fn=(301) AnsiToWin32 C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\ansitowin32.py:64
+fn=(113) _ModuleLockManager.__exit__ <frozen importlib._bootstrap>:151
+fn=(584) StreamHandler.__init__ C:\Program Files\Python37\lib\logging\__init__.py:802
+fn=(299) WinTerm.set_attrs C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\winterm.py:39
+fn=(709) <module> C:\Program Files\Python37\lib\multiprocessing\spawn.py:11
+fn=(810) Condition._is_owned C:\Program Files\Python37\lib\threading.py:255
+fn=(552) WeakValueDictionary.clear C:\Program Files\Python37\lib\_collections_abc.py:816
+fn=(313) LazyFile C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\utils.py:83
+fn=(708) <module> C:\Program Files\Python37\lib\multiprocessing\popen_spawn_win32.py:1
+fn=(772) _ResourceSharer._start C:\Program Files\Python37\lib\multiprocessing\resource_sharer.py:126
+fn=(457) _SpecialForm.__getitem__ C:\Program Files\Python37\lib\typing.py:340
+fn=(610) Config.should_reload C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\config.py:341
+fn=(314) KeepOpenFile C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\utils.py:159
+fn=(241) _FuncPtr C:\Program Files\Python37\lib\ctypes\__init__.py:358
+fn=(235) WinDLL C:\Program Files\Python37\lib\ctypes\__init__.py:396
+fn=(835) Event.set C:\Program Files\Python37\lib\threading.py:513
+fn=(585) _addHandlerRef C:\Program Files\Python37\lib\logging\__init__.py:783
+fn=(707) _Popen C:\Program Files\Python37\lib\multiprocessing\context.py:319
+fn=(104) HTTPHandler C:\Program Files\Python37\lib\logging\handlers.py:1124
+fn=(105) BufferingHandler C:\Program Files\Python37\lib\logging\handlers.py:1203
+fn=(325) Exit C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\exceptions.py:243
+fn=(418) <module> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\watchgod\__init__.py:2
+fn=(358) Option C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\core.py:1653
+fn=(504) Path.__init__ C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\types.py:560
+fn=(169) _bytes_to_codes C:\Program Files\Python37\lib\sre_compile.py:416
+fn=(233) CDLL C:\Program Files\Python37\lib\ctypes\__init__.py:319
+fn=(60) SourceFileLoader.get_code <frozen importlib._bootstrap_external>:793
+fn=(373) ProxyHeadersMiddleware C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\middleware\proxy_headers.py:13
+fn=(413) DefaultContext.get_context C:\Program Files\Python37\lib\multiprocessing\context.py:232
+fn=(397) _platform_supports_abstract_sockets C:\Program Files\Python37\lib\multiprocessing\util.py:108
+fn=(495) BaseReload C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\supervisors\basereload.py:18
+fn=(455) _SpecialForm.__hash__ C:\Program Files\Python37\lib\typing.py:322
+fn=(655) copy C:\Program Files\Python37\lib\copy.py:66
+fn=(468) _GenericAlias.__getitem__ C:\Program Files\Python37\lib\typing.py:626
+fn=(297) GetConsoleScreenBufferInfo C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\win32.py:102
+fn=(500) <listcomp> C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\main.py:34
+fn=(591) WeakValueDictionary.__contains__ C:\Program Files\Python37\lib\weakref.py:153
+fn=(830) SpawnProcess.ident C:\Program Files\Python37\lib\multiprocessing\process.py:225
+fn=(759) _ResourceSharer C:\Program Files\Python37\lib\multiprocessing\resource_sharer.py:61
+fn=(511) Option.__init__ C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\core.py:1694
+fn=(342) IntRange C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\click\types.py:273
+fn=(530) isclass C:\Program Files\Python37\lib\inspect.py:72
+fn=(125) _SocketWriter C:\Program Files\Python37\lib\socketserver.py:787
+fn=(438) _find_new_ C:\Program Files\Python37\lib\enum.py:479
+fn=(645) Logger.callHandlers C:\Program Files\Python37\lib\logging\__init__.py:1570
+fn=(69) _validate_timestamp_pyc <frozen importlib._bootstrap_external>:471
+fn=(580) <dictcomp> C:\Program Files\Python37\lib\logging\config.py:734
+fn=(667) Event.__init__ C:\Program Files\Python37\lib\threading.py:499
+fn=(831) shutdown_subprocess C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\uvicorn\subprocess.py:65
+fn=(676) CustomWatcher.__init__ C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\watchgod\watcher.py:79
+fn=(558) NullHandler.close C:\Program Files\Python37\lib\logging\__init__.py:914
+fn=(663) PercentStyle.format C:\Program Files\Python37\lib\logging\__init__.py:421
+fn=(402) ForkAwareThreadLock C:\Program Files\Python37\lib\multiprocessing\util.py:368
+fn=(555) shutdown C:\Program Files\Python37\lib\logging\__init__.py:2021
+fn=(292) CONSOLE_SCREEN_BUFFER_INFO C:\Users\mbila\AppData\Roaming\Python\Python37\site-packages\colorama\win32.py:21
+fn=(758) DupSocket C:\Program Files\Python37\lib\multiprocessing\resource_sharer.py:27
+fn=(593) __new__ C:\Program Files\Python37\lib\weakref.py:336
+fn=(603) DictConfigurator.add_handlers C:\Program Files\Python37\lib\logging\config.py:757
+fn=(307) WeakKeyDictionary.__init__ C:\Program Files\Python37\lib\weakref.py:356
+fn=(646) StreamHandler.handle C:\Program Files\Python37\lib\logging\__init__.py:881
+fn=(135) compile C:\Program Files\Python37\lib\sre_compile.py:759
+fn=(532) isfunction C:\Program Files\Python37\lib\inspect.py:158
+fn=(428) _get_mixins_ C:\Program Files\Python37\lib\enum.py:447
+fn=(195) _Environ.__contains__ C:\Program Files\Python37\lib\_collections_abc.py:664
+fn=(432) _is_sunder C:\Program Files\Python37\lib\enum.py:34
+fn=(748) dump C:\Program Files\Python37\lib\multiprocessing\reduction.py:58
+fn=(775) arbitrary_address C:\Program Files\Python37\lib\multiprocessing\connection.py:69
+fn=(265) FILETIME C:\Program Files\Python37\lib\ctypes\wintypes.py:128
+
+fl=(0)
+fn=(0)
+10 0
+cfl=(539)
+cfn=(539)
+calls=1 0
+0 46875
+cfl=(1)
+cfn=(1)
+calls=1 0
+0 46875
+
+fl=(42)
+fn=(42)
+663 0
+cfl=(210)
+cfn=(210)
+calls=2 0
+0 0
+cfl=(109)
+cfn=(109)
+calls=57 0
+0 0
+cfl=(59)
+cfn=(59)
+calls=55 0
+0 46875
+cfl=(58)
+cfn=(58)
+calls=57 0
+0 0
+cfl=(57)
+cfn=(57)
+calls=57 0
+0 0
+cfl=(43)
+cfn=(43)
+calls=57 0
+0 0
+
+fl=(59)
+fn=(59)
+722 0
+cfl=(73)
+cfn=(73)
+calls=55 0
+0 46875
+cfl=(60)
+cfn=(60)
+calls=55 0
+0 0
+
+fl=(1)
+fn=(1)
+978 0
+cfl=(115)
+cfn=(115)
+calls=57 0
+0 0
+cfl=(113)
+cfn=(113)
+calls=57 0
+0 0
+cfl=(12)
+cfn=(12)
+calls=57 0
+0 46875
+cfl=(3)
+cfn=(3)
+calls=57 0
+0 0
+cfl=(2)
+cfn=(2)
+calls=57 0
+0 0
+
+fl=(539)
+fn=(539)
+342 0
+cfl=(691)
+cfn=(691)
+calls=1 0
+0 31250
+cfl=(665)
+cfn=(665)
+calls=1 0
+0 0
+cfl=(611)
+cfn=(611)
+calls=1 0
+0 15625
+cfl=(610)
+cfn=(610)
+calls=1 0
+0 0
+cfl=(608)
+cfn=(608)
+calls=1 0
+0 0
+cfl=(540)
+cfn=(540)
+calls=1 0
+0 0
+
+fl=(75)
+fn=(75)
+1 0
+cfl=(93)
+cfn=(93)
+calls=2 0
+0 0
+cfl=(1)
+cfn=(1)
+calls=2 0
+0 46875
+
+fl=(26)
+fn=(26)
+1356 0
+cfl=(82)
+cfn=(82)
+calls=9 0
+0 0
+cfl=(37)
+cfn=(37)
+calls=57 0
+0 0
+cfl=(35)
+cfn=(35)
+calls=73 0
+0 31250
+cfl=(34)
+cfn=(34)
+calls=285 0
+0 0
+cfl=(30)
+cfn=(30)
+calls=317 0
+0 15625
+cfl=(29)
+cfn=(29)
+calls=85 0
+0 0
+cfl=(27)
+cfn=(27)
+calls=85 0
+0 0
+
+fl=(12)
+fn=(12)
+948 0
+cfl=(73)
+cfn=(73)
+calls=2 0
+0 0
+cfl=(42)
+cfn=(42)
+calls=57 0
+0 46875
+cfl=(14)
+cfn=(14)
+calls=57 0
+0 46875
+
+fl=(22)
+fn=(22)
+1240 0
+cfl=(26)
+cfn=(26)
+calls=85 0
+0 46875
+cfl=(24)
+cfn=(24)
+calls=96 0
+0 0
+
+fl=(21)
+fn=(21)
+1272 0
+cfl=(22)
+cfn=(22)
+calls=57 0
+0 46875
+
+fl=(73)
+fn=(73)
+211 0
+
+fl=(14)
+fn=(14)
+882 0
+cfl=(21)
+cfn=(21)
+calls=57 0
+0 46875
+cfl=(19)
+cfn=(19)
+calls=57 0
+0 0
+cfl=(18)
+cfn=(18)
+calls=171 0
+0 0
+cfl=(16)
+cfn=(16)
+calls=57 0
+0 0
+cfl=(15)
+cfn=(15)
+calls=171 0
+0 0
+
+fl=(36)
+fn=(36)
+84 0
+cfl=(27)
+cfn=(27)
+calls=82 0
+0 31250
+
+fl=(90)
+fn=(90)
+1 0
+cfl=(377)
+cfn=(377)
+calls=1 0
+0 0
+cfl=(93)
+cfn=(93)
+calls=7 0
+0 0
+cfl=(1)
+cfn=(1)
+calls=8 0
+0 31250
+
+fl=(691)
+fn=(691)
+40 0
+cfl=(838)
+cfn=(838)
+calls=1 0
+0 0
+cfl=(828)
+cfn=(828)
+calls=61 0
+0 31250
+cfl=(806)
+cfn=(806)
+calls=62 0
+0 0
+cfl=(692)
+cfn=(692)
+calls=1 0
+0 0
+
+fl=(192)
+fn=(192)
+6 0
+cfl=(93)
+cfn=(93)
+calls=67 0
+0 0
+cfl=(1)
+cfn=(1)
+calls=2 0
+0 31250
+cfl=(48)
+cfn=(48)
+calls=67 0
+0 0
+
+fl=(683)
+fn=(683)
+43 0
+cfl=(690)
+cfn=(690)
+calls=186 0
+0 15625
+cfl=(683)
+cfn=(683)
+calls=62 0
+0 0
+cfl=(687)
+cfn=(687)
+calls=248 0
+0 15625
+cfl=(686)
+cfn=(686)
+calls=186 0
+0 0
+
+fl=(35)
+fn=(35)
+93 0
+cfl=(36)
+cfn=(36)
+calls=73 0
+0 31250
+
+fl=(27)
+fn=(27)
+74 15625
+
+fl=(193)
+fn=(193)
+1 0
+cfl=(303)
+cfn=(303)
+calls=1 0
+0 0
+cfl=(1)
+cfn=(1)
+calls=4 0
+0 31250
+cfl=(48)
+cfn=(48)
+calls=29 0
+0 0
+cfl=(93)
+cfn=(93)
+calls=32 0
+0 0
+
+fl=(828)
+fn=(828)
+54 0
+cfl=(679)
+cfn=(679)
+calls=61 0
+0 31250
+
+fl=(680)
+fn=(680)
+28 0
+cfl=(683)
+cfn=(683)
+calls=62 0
+0 31250
+cfl=(681)
+cfn=(681)
+calls=62 0
+0 0
+
+fl=(679)
+fn=(679)
+51 0
+cfl=(680)
+cfn=(680)
+calls=62 0
+0 31250
+
+fl=(611)
+fn=(611)
+315 0
+cfl=(620)
+cfn=(620)
+calls=1 0
+0 0
+cfl=(619)
+cfn=(619)
+calls=1 0
+0 0
+cfl=(618)
+cfn=(618)
+calls=1 0
+0 15625
+cfl=(615)
+cfn=(615)
+calls=1 0
+0 0
+cfl=(612)
+cfn=(612)
+calls=1 0
+0 0
+
+fl=(390)
+fn=(390)
+1 0
+cfl=(525)
+cfn=(525)
+calls=1 0
+0 0
+cfl=(522)
+cfn=(522)
+calls=1 0
+0 0
+cfl=(505)
+cfn=(505)
+calls=34 0
+0 0
+cfl=(454)
+cfn=(454)
+calls=2 0
+0 0
+cfl=(504)
+cfn=(504)
+calls=2 0
+0 0
+cfl=(503)
+cfn=(503)
+calls=34 0
+0 0
+cfl=(502)
+cfn=(502)
+calls=1 0
+0 0
+cfl=(501)
+cfn=(501)
+calls=1 0
+0 0
+cfl=(377)
+cfn=(377)
+calls=1 0
+0 0
+cfl=(500)
+cfn=(500)
+calls=1 0
+0 0
+cfl=(499)
+cfn=(499)
+calls=6 0
+0 0
+cfl=(1)
+cfn=(1)
+calls=1 0
+0 15625
+cfl=(252)
+cfn=(252)
+calls=1 0
+0 0
+cfl=(93)
+cfn=(93)
+calls=3 0
+0 0
+
+fl=(687)
+fn=(687)
+23 0
+cfl=(688)
+cfn=(688)
+calls=62 0
+0 0
+
+fl=(395)
+fn=(395)
+10 0
+cfl=(412)
+cfn=(412)
+calls=2 0
+0 0
+cfl=(93)
+cfn=(93)
+calls=4 0
+0 0
+cfl=(48)
+cfn=(48)
+calls=3 0
+0 0
+cfl=(1)
+cfn=(1)
+calls=1 0
+0 15625
+
+fl=(93)
+fn=(93)
+1009 0
+cfl=(73)
+cfn=(73)
+calls=4 0
+0 15625
+
+fl=(30)
+fn=(30)
+56 15625
+cfl=(31)
+cfn=(31)
+calls=427 0
+0 0
+
+fl=(194)
+fn=(194)
+2 0
+cfl=(308)
+cfn=(308)
+calls=3 0
+0 0
+cfl=(307)
+cfn=(307)
+calls=1 0
+0 0
+cfl=(1)
+cfn=(1)
+calls=2 0
+0 15625
+cfl=(48)
+cfn=(48)
+calls=1 0
+0 0
+cfl=(130)
+cfn=(130)
+calls=1 0
+0 0
+cfl=(195)
+cfn=(195)
+calls=1 0
+0 0
+cfl=(93)
+cfn=(93)
+calls=2 0
+0 0
+
+fl=(690)
+fn=(690)
+34 0
+
+fl=(392)
+fn=(392)
+1 0
+cfl=(377)
+cfn=(377)
+calls=1 0
+0 0
+cfl=(93)
+cfn=(93)
+calls=1 0
+0 0
+cfl=(1)
+cfn=(1)
+calls=1 0
+0 15625
+
+fl=(394)
+fn=(394)
+163 0
+cfl=(93)
+cfn=(93)
+calls=1 0
+0 15625
+cfl=(48)
+cfn=(48)
+calls=1 0
+0 0
+
+fl=(688)
+fn=(688)
+24 15625
+
+fl=(393)
+fn=(393)
+4 0
+cfl=(413)
+cfn=(413)
+calls=1 0
+0 0
+cfl=(394)
+cfn=(394)
+calls=1 0
+0 15625
+
+fl=(391)
+fn=(391)
+1 0
+cfl=(93)
+cfn=(93)
+calls=2 0
+0 0
+cfl=(1)
+cfn=(1)
+calls=2 0
+0 15625
+
+fl=(618)
+fn=(618)
+433 15625
+
+fl=(816)
+fn=(816)
+445 0
+cfl=(817)
+cfn=(817)
+calls=1 0
+0 0
+
+fl=(818)
+fn=(818)
+644 0
+
+fl=(814)
+fn=(814)
+137 0
+cfl=(816)
+cfn=(816)
+calls=1 0
+0 0
+
+fl=(813)
+fn=(813)
+859 0
+cfl=(814)
+cfn=(814)
+calls=1 0
+0 0
+
+fl=(817)
+fn=(817)
+656 0
+cfl=(818)
+cfn=(818)
+calls=1 0
+0 0
+
+fl=(411)
+fn=(411)
+777 0
+
+fl=(681)
+fn=(681)
+27 0
+
+fl=(540)
+fn=(540)
+107 0
+cfl=(607)
+cfn=(607)
+calls=1 0
+0 0
+cfl=(195)
+cfn=(195)
+calls=1 0
+0 0
+cfl=(541)
+cfn=(541)
+calls=1 0
+0 0
+
+fl=(466)
+fn=(466)
+49 0
+cfl=(473)
+cfn=(473)
+calls=1 0
+0 0
+cfl=(454)
+cfn=(454)
+calls=4 0
+0 0
+
+fl=(460)
+fn=(460)
+212 0
+
+fl=(142)
+fn=(142)
+469 0
+cfl=(190)
+cfn=(190)
+calls=35 0
+0 0
+cfl=(188)
+cfn=(188)
+calls=17 0
+0 0
+cfl=(140)
+cfn=(140)
+calls=20 0
+0 0
+cfl=(187)
+cfn=(187)
+calls=17 0
+0 0
+cfl=(185)
+cfn=(185)
+calls=2 0
+0 0
+cfl=(153)
+cfn=(153)
+calls=33 0
+0 0
+cfl=(152)
+cfn=(152)
+calls=249 0
+0 0
+cfl=(151)
+cfn=(151)
+calls=66 0
+0 0
+cfl=(149)
+cfn=(149)
+calls=9 0
+0 0
+cfl=(147)
+cfn=(147)
+calls=103 0
+0 0
+cfl=(141)
+cfn=(141)
+calls=62 0
+0 0
+cfl=(145)
+cfn=(145)
+calls=112 0
+0 0
+cfl=(144)
+cfn=(144)
+calls=197 0
+0 0
+cfl=(143)
+cfn=(143)
+calls=40 0
+0 0
+
+fl=(590)
+fn=(590)
+818 0
+cfl=(387)
+cfn=(387)
+calls=2 0
+0 0
+cfl=(592)
+cfn=(592)
+calls=2 0
+0 0
+cfl=(591)
+cfn=(591)
+calls=2 0
+0 0
+cfl=(379)
+cfn=(379)
+calls=2 0
+0 0
+
+fl=(403)
+fn=(403)
+385 0
+
+fl=(692)
+fn=(692)
+47 0
+cfl=(704)
+cfn=(704)
+calls=1 0
+0 0
+cfl=(698)
+cfn=(698)
+calls=1 0
+0 0
+cfl=(693)
+cfn=(693)
+calls=2 0
+0 0
+cfl=(620)
+cfn=(620)
+calls=1 0
+0 0
+cfl=(618)
+cfn=(618)
+calls=2 0
+0 0
+
+fl=(669)
+fn=(669)
+32 0
+cfl=(671)
+cfn=(671)
+calls=1 0
+0 0
+
+fl=(763)
+fn=(763)
+29 0
+cfl=(771)
+cfn=(771)
+calls=1 0
+0 0
+cfl=(764)
+cfn=(764)
+calls=1 0
+0 0
+
+fl=(305)
+fn=(305)
+37 0
+
+fl=(261)
+fn=(261)
+104 0
+
+fl=(172)
+fn=(172)
+249 0
+
+fl=(132)
+fn=(132)
+164 0
+cfl=(754)
+cfn=(754)
+calls=2 0
+0 0
+cfl=(133)
+cfn=(133)
+calls=3 0
+0 0
+
+fl=(341)
+fn=(341)
+260 0
+
+fl=(101)
+fn=(101)
+692 0
+
+fl=(661)
+fn=(661)
+24 0
+cfl=(618)
+cfn=(618)
+calls=3 0
+0 0
+
+fl=(179)
+fn=(179)
+531 0
+cfl=(697)
+cfn=(697)
+calls=1 0
+0 0
+
+fl=(471)
+fn=(471)
+180 0
+cfl=(472)
+cfn=(472)
+calls=2 0
+0 0
+
+fl=(89)
+fn=(89)
+1433 0
+
+fl=(223)
+fn=(223)
+207 0
+
+fl=(777)
+fn=(777)
+233 0
+
+fl=(19)
+fn=(19)
+792 0
+
+fl=(328)
+fn=(328)
+122 0
+
+fl=(577)
+fn=(577)
+415 0
+
+fl=(355)
+fn=(355)
+1331 0
+
+fl=(783)
+fn=(783)
+97 0
+
+fl=(361)
+fn=(361)
+1 0
+
+fl=(505)
+fn=(505)
+185 0
+cfl=(518)
+cfn=(518)
+calls=34 0
+0 0
+cfl=(511)
+cfn=(511)
+calls=34 0
+0 0
+cfl=(507)
+cfn=(507)
+calls=34 0
+0 0
+
+fl=(671)
+fn=(671)
+523 0
+cfl=(673)
+cfn=(673)
+calls=1 0
+0 0
+
+fl=(221)
+fn=(221)
+193 0
+
+fl=(639)
+fn=(639)
+1064 0
+
+fl=(64)
+fn=(64)
+914 0
+
+fl=(722)
+fn=(722)
+268 0
+
+fl=(475)
+fn=(475)
+765 0
+cfl=(477)
+cfn=(477)
+calls=1 0
+0 0
+cfl=(481)
+cfn=(481)
+calls=4 0
+0 0
+cfl=(459)
+cfn=(459)
+calls=2 0
+0 0
+cfl=(472)
+cfn=(472)
+calls=4 0
+0 0
+cfl=(476)
+cfn=(476)
+calls=5 0
+0 0
+
+fl=(296)
+fn=(296)
+24 0
+cfl=(299)
+cfn=(299)
+calls=1 0
+0 0
+cfl=(297)
+cfn=(297)
+calls=1 0
+0 0
+
+fl=(236)
+fn=(236)
+405 0
+
+fl=(108)
+fn=(108)
+1402 0
+
+fl=(337)
+fn=(337)
+103 0
+
+fl=(723)
+fn=(723)
+23 0
+
+fl=(790)
+fn=(790)
+75 0
+cfl=(635)
+cfn=(635)
+calls=2 0
+0 0
+
+fl=(202)
+fn=(202)
+60 0
+
+fl=(734)
+fn=(734)
+67 0
+cfl=(634)
+cfn=(634)
+calls=1 0
+0 0
+cfl=(635)
+cfn=(635)
+calls=1 0
+0 0
+
+fl=(560)
+fn=(560)
+1002 0
+cfl=(559)
+cfn=(559)
+calls=5 0
+0 0
+cfl=(561)
+cfn=(561)
+calls=3 0
+0 0
+cfl=(556)
+cfn=(556)
+calls=5 0
+0 0
+
+fl=(412)
+fn=(412)
+43 0
+
+fl=(686)
+fn=(686)
+72 0
+
+fl=(312)
+fn=(312)
+1 0
+cfl=(93)
+cfn=(93)
+calls=1 0
+0 0
+
+fl=(63)
+fn=(63)
+951 0
+cfl=(27)
+cfn=(27)
+calls=55 0
+0 0
+
+fl=(398)
+fn=(398)
+102 0
+cfl=(399)
+cfn=(399)
+calls=1 0
+0 0
+
+fl=(106)
+fn=(106)
+1260 0
+
+fl=(507)
+fn=(507)
+613 0
+
+fl=(405)
+fn=(405)
+268 0
+
+fl=(245)
+fn=(245)
+381 0
+
+fl=(365)
+fn=(365)
+1 0
+
+fl=(141)
+fn=(141)
+286 0
+
+fl=(662)
+fn=(662)
+579 0
+cfl=(663)
+cfn=(663)
+calls=4 0
+0 0
+
+fl=(349)
+fn=(349)
+654 0
+
+fl=(609)
+fn=(609)
+370 0
+
+fl=(557)
+fn=(557)
+905 0
+
+fl=(259)
+fn=(259)
+20 0
+
+fl=(356)
+fn=(356)
+1390 0
+
+fl=(739)
+fn=(739)
+272 0
+cfl=(740)
+cfn=(740)
+calls=1 0
+0 0
+
+fl=(138)
+fn=(138)
+233 0
+
+fl=(583)
+fn=(583)
+991 0
+cfl=(584)
+cfn=(584)
+calls=2 0
+0 0
+
+fl=(227)
+fn=(227)
+230 0
+
+fl=(724)
+fn=(724)
+46 0
+
+fl=(334)
+fn=(334)
+17 0
+
+fl=(231)
+fn=(231)
+251 0
+
+fl=(419)
+fn=(419)
+1 0
+cfl=(474)
+cfn=(474)
+calls=5 0
+0 0
+cfl=(454)
+cfn=(454)
+calls=9 0
+0 0
+cfl=(377)
+cfn=(377)
+calls=1 0
+0 0
+cfl=(1)
+cfn=(1)
+calls=1 0
+0 0
+cfl=(48)
+cfn=(48)
+calls=1 0
+0 0
+cfl=(93)
+cfn=(93)
+calls=7 0
+0 0
+
+fl=(807)
+fn=(807)
+240 0
+
+fl=(658)
+fn=(658)
+269 0
+cfl=(659)
+cfn=(659)
+calls=4 0
+0 0
+
+fl=(526)
+fn=(526)
+80 0
+cfl=(535)
+cfn=(535)
+calls=1 0
+0 0
+cfl=(534)
+cfn=(534)
+calls=1 0
+0 0
+cfl=(528)
+cfn=(528)
+calls=1 0
+0 0
+
+fl=(731)
+fn=(731)
+204 0
+
+fl=(802)
+fn=(802)
+1131 0
+cfl=(803)
+cfn=(803)
+calls=1 0
+0 0
+
+fl=(420)
+fn=(420)
+39 0
+cfl=(93)
+cfn=(93)
+calls=1 0
+0 0
+cfl=(1)
+cfn=(1)
+calls=1 0
+0 0
+cfl=(48)
+cfn=(48)
+calls=1 0
+0 0
+
+fl=(173)
+fn=(173)
+423 0
+cfl=(152)
+cfn=(152)
+calls=32 0
+0 0
+
+fl=(485)
+fn=(485)
+27 0
+
+fl=(282)
+fn=(282)
+36 0
+
+fl=(145)
+fn=(145)
+172 0
+
+fl=(605)
+fn=(605)
+161 0
+
+fl=(746)
+fn=(746)
+186 0
+
+fl=(70)
+fn=(70)
+523 0
+cfl=(34)
+cfn=(34)
+calls=55 0
+0 0
+
+fl=(716)
+fn=(716)
+388 0
+
+fl=(98)
+fn=(98)
+414 0
+
+fl=(525)
+fn=(525)
+129 0
+cfl=(526)
+cfn=(526)
+calls=1 0
+0 0
+
+fl=(345)
+fn=(345)
+406 0
+
+fl=(559)
+fn=(559)
+845 0
+
+fl=(579)
+fn=(579)
+694 0
+cfl=(589)
+cfn=(589)
+calls=2 0
+0 0
+cfl=(583)
+cfn=(583)
+calls=2 0
+0 0
+cfl=(580)
+cfn=(580)
+calls=2 0
+0 0
+cfl=(566)
+cfn=(566)
+calls=2 0
+0 0
+cfl=(546)
+cfn=(546)
+calls=4 0
+0 0
+cfl=(550)
+cfn=(550)
+calls=10 0
+0 0
+
+fl=(274)
+fn=(274)
+165 0
+
+fl=(152)
+fn=(152)
+164 0
+cfl=(143)
+cfn=(143)
+calls=33 0
+0 0
+
+fl=(776)
+fn=(776)
+382 0
+cfl=(791)
+cfn=(791)
+calls=1 0
+0 0
+cfl=(790)
+cfn=(790)
+calls=1 0
+0 0
+cfl=(777)
+cfn=(777)
+calls=1 0
+0 0
+
+fl=(436)
+fn=(436)
+140 0
+cfl=(446)
+cfn=(446)
+calls=1 0
+0 0
+cfl=(444)
+cfn=(444)
+calls=1 0
+0 0
+cfl=(441)
+cfn=(441)
+calls=5 0
+0 0
+cfl=(431)
+cfn=(431)
+calls=1 0
+0 0
+cfl=(440)
+cfn=(440)
+calls=1 0
+0 0
+cfl=(438)
+cfn=(438)
+calls=1 0
+0 0
+cfl=(428)
+cfn=(428)
+calls=1 0
+0 0
+
+fl=(191)
+fn=(191)
+485 0
+
+fl=(317)
+fn=(317)
+45 0
+
+fl=(350)
+fn=(350)
+94 0
+cfl=(303)
+cfn=(303)
+calls=2 0
+0 0
+
+fl=(82)
+fn=(82)
+1404 0
+cfl=(89)
+cfn=(89)
+calls=9 0
+0 0
+
+fl=(406)
+fn=(406)
+348 0
+
+fl=(594)
+fn=(594)
+341 0
+
+fl=(518)
+fn=(518)
+146 0
+
+fl=(631)
+fn=(631)
+117 0
+
+fl=(3)
+fn=(3)
+147 0
+cfl=(9)
+cfn=(9)
+calls=57 0
+0 0
+cfl=(4)
+cfn=(4)
+calls=57 0
+0 0
+
+fl=(161)
+fn=(161)
+492 0
+cfl=(152)
+cfn=(152)
+calls=1 0
+0 0
+cfl=(151)
+cfn=(151)
+calls=1 0
+0 0
+cfl=(189)
+cfn=(189)
+calls=1 0
+0 0
+cfl=(160)
+cfn=(160)
+calls=11 0
+0 0
+
+fl=(100)
+fn=(100)
+650 0
+
+fl=(434)
+fn=(434)
+26 0
+
+fl=(677)
+fn=(677)
+80 0
+cfl=(130)
+cfn=(130)
+calls=4 0
+0 0
+
+fl=(124)
+fn=(124)
+742 0
+
+fl=(844)
+fn=(844)
+116 0
+
+fl=(203)
+fn=(203)
+102 0
+
+fl=(378)
+fn=(378)
+1216 0
+cfl=(598)
+cfn=(598)
+calls=1 0
+0 0
+cfl=(387)
+cfn=(387)
+calls=10 0
+0 0
+cfl=(384)
+cfn=(384)
+calls=5 0
+0 0
+cfl=(381)
+cfn=(381)
+calls=5 0
+0 0
+cfl=(379)
+cfn=(379)
+calls=10 0
+0 0
+
+fl=(31)
+fn=(31)
+58 0
+
+fl=(285)
+fn=(285)
+93 0
+
+fl=(189)
+fn=(189)
+65 0
+
+fl=(396)
+fn=(396)
+10 0
+cfl=(398)
+cfn=(398)
+calls=1 0
+0 0
+cfl=(397)
+cfn=(397)
+calls=1 0
+0 0
+cfl=(48)
+cfn=(48)
+calls=1 0
+0 0
+cfl=(93)
+cfn=(93)
+calls=2 0
+0 0
+
+fl=(612)
+fn=(612)
+139 0
+
+fl=(240)
+fn=(240)
+340 0
+
+fl=(546)
+fn=(546)
+323 0
+cfl=(548)
+cfn=(548)
+calls=23 0
+0 0
+
+fl=(537)
+fn=(537)
+365 0
+
+fl=(673)
+fn=(673)
+450 0
+cfl=(635)
+cfn=(635)
+calls=2 0
+0 0
+
+fl=(372)
+fn=(372)
+10 0
+
+fl=(749)
+fn=(749)
+38 0
+
+fl=(812)
+fn=(812)
+249 0
+
+fl=(288)
+fn=(288)
+12 0
+
+fl=(183)
+fn=(183)
+345 0
+
+fl=(821)
+fn=(821)
+243 0
+
+fl=(782)
+fn=(782)
+88 0
+cfl=(783)
+cfn=(783)
+calls=1 0
+0 0
+
+fl=(62)
+fn=(62)
+909 0
+
+fl=(675)
+fn=(675)
+20 0
+cfl=(130)
+cfn=(130)
+calls=5 0
+0 0
+
+fl=(119)
+fn=(119)
+516 0
+
+fl=(49)
+fn=(49)
+424 0
+
+fl=(536)
+fn=(536)
+660 0
+
+fl=(370)
+fn=(370)
+1 0
+
+fl=(453)
+fn=(453)
+1170 0
+
+fl=(291)
+fn=(291)
+4 0
+cfl=(244)
+cfn=(244)
+calls=7 0
+0 0
+cfl=(242)
+cfn=(242)
+calls=1 0
+0 0
+cfl=(239)
+cfn=(239)
+calls=1 0
+0 0
+cfl=(93)
+cfn=(93)
+calls=3 0
+0 0
+
+fl=(572)
+fn=(572)
+472 0
+cfl=(546)
+cfn=(546)
+calls=3 0
+0 0
+cfl=(573)
+cfn=(573)
+calls=3 0
+0 0
+
+fl=(269)
+fn=(269)
+111 0
+
+fl=(163)
+fn=(163)
+276 0
+cfl=(169)
+cfn=(169)
+calls=2 0
+0 0
+cfl=(166)
+cfn=(166)
+calls=3 0
+0 0
+
+fl=(489)
+fn=(489)
+267 0
+cfl=(130)
+cfn=(130)
+calls=1 0
+0 0
+
+fl=(697)
+fn=(697)
+580 0
+
+fl=(4)
+fn=(4)
+157 0
+cfl=(6)
+cfn=(6)
+calls=57 0
+0 0
+
+fl=(836)
+fn=(836)
+358 0
+cfl=(837)
+cfn=(837)
+calls=1 0
+0 0
+
+fl=(840)
+fn=(840)
+97 0
+
+fl=(773)
+fn=(773)
+48 0
+
+fl=(315)
+fn=(315)
+433 0
+
+fl=(478)
+fn=(478)
+660 0
+
+fl=(711)
+fn=(711)
+1 0
+cfl=(719)
+cfn=(719)
+calls=2 0
+0 0
+cfl=(718)
+cfn=(718)
+calls=1 0
+0 0
+cfl=(712)
+cfn=(712)
+calls=1 0
+0 0
+cfl=(93)
+cfn=(93)
+calls=4 0
+0 0
+
+fl=(273)
+fn=(273)
+130 0
+
+fl=(387)
+fn=(387)
+221 0
+
+fl=(446)
+fn=(446)
+203 0
+
+fl=(703)
+fn=(703)
+81 0
+
+fl=(517)
+fn=(517)
+688 0
+
+fl=(625)
+fn=(625)
+154 0
+
+fl=(16)
+fn=(16)
+719 0
+
+fl=(198)
+fn=(198)
+740 0
+
+fl=(738)
+fn=(738)
+87 0
+
+fl=(364)
+fn=(364)
+1 0
+
+fl=(641)
+fn=(641)
+180 0
+
+fl=(99)
+fn=(99)
+483 0
+
+fl=(48)
+fn=(48)
+416 0
+
+fl=(637)
+fn=(637)
+121 0
+
+fl=(717)
+fn=(717)
+1 0
+
+fl=(513)
+fn=(513)
+1780 0
+cfl=(515)
+cfn=(515)
+calls=34 0
+0 0
+cfl=(514)
+cfn=(514)
+calls=68 0
+0 0
+
+fl=(37)
+fn=(37)
+1351 0
+cfl=(207)
+cfn=(207)
+calls=2 0
+0 0
+cfl=(39)
+cfn=(39)
+calls=57 0
+0 0
+cfl=(38)
+cfn=(38)
+calls=55 0
+0 0
+
+fl=(622)
+fn=(622)
+1600 0
+
+fl=(481)
+fn=(481)
+786 0
+cfl=(459)
+cfn=(459)
+calls=2 0
+0 0
+
+fl=(448)
+fn=(448)
+16 0
+
+fl=(561)
+fn=(561)
+1146 0
+
+fl=(41)
+fn=(41)
+369 0
+
+fl=(153)
+fn=(153)
+168 0
+
+fl=(801)
+fn=(801)
+1116 0
+
+fl=(379)
+fn=(379)
+212 0
+
+fl=(786)
+fn=(786)
+256 0
+cfl=(787)
+cfn=(787)
+calls=8 0
+0 0
+
+fl=(771)
+fn=(771)
+73 0
+cfl=(772)
+cfn=(772)
+calls=1 0
+0 0
+
+fl=(565)
+fn=(565)
+465 0
+cfl=(574)
+cfn=(574)
+calls=2 0
+0 0
+cfl=(572)
+cfn=(572)
+calls=2 0
+0 0
+cfl=(566)
+cfn=(566)
+calls=2 0
+0 0
+cfl=(550)
+cfn=(550)
+calls=4 0
+0 0
+
+fl=(601)
+fn=(601)
+1304 0
+cfl=(387)
+cfn=(387)
+calls=3 0
+0 0
+cfl=(379)
+cfn=(379)
+calls=3 0
+0 0
+
+fl=(548)
+fn=(548)
+290 0
+cfl=(549)
+cfn=(549)
+calls=56 0
+0 0
+
+fl=(253)
+fn=(253)
+23 0
+
+fl=(229)
+fn=(229)
+241 0
+
+fl=(160)
+fn=(160)
+453 0
+
+fl=(283)
+fn=(283)
+49 0
+
+fl=(366)
+fn=(366)
+1 0
+
+fl=(320)
+fn=(320)
+172 0
+
+fl=(472)
+fn=(472)
+638 0
+cfl=(461)
+cfn=(461)
+calls=6 0
+0 0
+
+fl=(638)
+fn=(638)
+1225 0
+
+fl=(551)
+fn=(551)
+270 0
+cfl=(555)
+cfn=(555)
+calls=1 0
+0 0
+cfl=(552)
+cfn=(552)
+calls=1 0
+0 0
+
+fl=(754)
+fn=(754)
+628 0
+
+fl=(347)
+fn=(347)
+440 0
+
+fl=(533)
+fn=(533)
+525 0
+cfl=(530)
+cfn=(530)
+calls=1 0
+0 0
+
+fl=(102)
+fn=(102)
+946 0
+
+fl=(793)
+fn=(793)
+83 0
+
+fl=(79)
+fn=(79)
+1319 0
+
+fl=(76)
+fn=(76)
+1190 0
+cfl=(77)
+cfn=(77)
+calls=9 0
+0 0
+
+fl=(216)
+fn=(216)
+160 0
+
+fl=(248)
+fn=(248)
+99 0
+
+fl=(470)
+fn=(470)
+199 0
+
+fl=(204)
+fn=(204)
+595 0
+
+fl=(230)
+fn=(230)
+246 0
+
+fl=(774)
+fn=(774)
+429 0
+cfl=(794)
+cfn=(794)
+calls=1 0
+0 0
+cfl=(793)
+cfn=(793)
+calls=1 0
+0 0
+cfl=(775)
+cfn=(775)
+calls=1 0
+0 0
+
+fl=(794)
+fn=(794)
+633 0
+cfl=(746)
+cfn=(746)
+calls=1 0
+0 0
+cfl=(797)
+cfn=(797)
+calls=1 0
+0 0
+cfl=(795)
+cfn=(795)
+calls=1 0
+0 0
+
+fl=(381)
+fn=(381)
+1336 0
+cfl=(383)
+cfn=(383)
+calls=5 0
+0 0
+cfl=(382)
+cfn=(382)
+calls=5 0
+0 0
+
+fl=(293)
+fn=(293)
+6 0
+
+fl=(674)
+fn=(674)
+16 0
+cfl=(676)
+cfn=(676)
+calls=1 0
+0 0
+cfl=(675)
+cfn=(675)
+calls=6 0
+0 0
+
+fl=(333)
+fn=(333)
+1 0
+cfl=(48)
+cfn=(48)
+calls=10 0
+0 0
+cfl=(93)
+cfn=(93)
+calls=11 0
+0 0
+
+fl=(704)
+fn=(704)
+101 0
+cfl=(707)
+cfn=(707)
+calls=1 0
+0 0
+cfl=(706)
+cfn=(706)
+calls=1 0
+0 0
+cfl=(705)
+cfn=(705)
+calls=1 0
+0 0
+
+fl=(440)
+fn=(440)
+157 0
+
+fl=(757)
+fn=(757)
+11 0
+cfl=(760)
+cfn=(760)
+calls=1 0
+0 0
+cfl=(93)
+cfn=(93)
+calls=3 0
+0 0
+cfl=(48)
+cfn=(48)
+calls=3 0
+0 0
+
+fl=(574)
+fn=(574)
+32 0
+cfl=(576)
+cfn=(576)
+calls=2 0
+0 0
+
+fl=(383)
+fn=(383)
+187 0
+
+fl=(503)
+fn=(503)
+174 0
+
+fl=(210)
+fn=(210)
+1048 0
+cfl=(34)
+cfn=(34)
+calls=2 0
+0 0
+cfl=(73)
+cfn=(73)
+calls=2 0
+0 0
+
+fl=(725)
+fn=(725)
+160 0
+
+fl=(838)
+fn=(838)
+73 0
+cfl=(620)
+cfn=(620)
+calls=1 0
+0 0
+cfl=(618)
+cfn=(618)
+calls=1 0
+0 0
+cfl=(839)
+cfn=(839)
+calls=1 0
+0 0
+
+fl=(279)
+fn=(279)
+2 0
+cfl=(296)
+cfn=(296)
+calls=1 0
+0 0
+cfl=(93)
+cfn=(93)
+calls=3 0
+0 0
+cfl=(1)
+cfn=(1)
+calls=2 0
+0 0
+cfl=(48)
+cfn=(48)
+calls=3 0
+0 0
+
+fl=(357)
+fn=(357)
+1421 0
+
+fl=(742)
+fn=(742)
+45 0
+
+fl=(659)
+fn=(659)
+87 0
+
+fl=(424)
+fn=(424)
+108 0
+
+fl=(458)
+fn=(458)
+351 0
+cfl=(459)
+cfn=(459)
+calls=2 0
+0 0
+
+fl=(156)
+fn=(156)
+536 0
+cfl=(201)
+cfn=(201)
+calls=5 0
+0 0
+cfl=(161)
+cfn=(161)
+calls=11 0
+0 0
+cfl=(159)
+cfn=(159)
+calls=16 0
+0 0
+cfl=(157)
+cfn=(157)
+calls=16 0
+0 0
+
+fl=(473)
+fn=(473)
+42 0
+
+fl=(635)
+fn=(635)
+122 0
+
+fl=(327)
+fn=(327)
+20 0
+cfl=(48)
+cfn=(48)
+calls=4 0
+0 0
+cfl=(93)
+cfn=(93)
+calls=5 0
+0 0
+
+fl=(607)
+fn=(607)
+657 0
+cfl=(196)
+cfn=(196)
+calls=1 0
+0 0
+
+fl=(648)
+fn=(648)
+858 0
+cfl=(649)
+cfn=(649)
+calls=4 0
+0 0
+
+fl=(633)
+fn=(633)
+178 0
+cfl=(635)
+cfn=(635)
+calls=4 0
+0 0
+cfl=(634)
+cfn=(634)
+calls=4 0
+0 0
+
+fl=(196)
+fn=(196)
+676 0
+cfl=(197)
+cfn=(197)
+calls=3 0
+0 0
+
+fl=(326)
+fn=(326)
+1 0
+cfl=(1)
+cfn=(1)
+calls=2 0
+0 0
+cfl=(48)
+cfn=(48)
+calls=3 0
+0 0
+cfl=(93)
+cfn=(93)
+calls=4 0
+0 0
+
+fl=(522)
+fn=(522)
+166 0
+cfl=(518)
+cfn=(518)
+calls=1 0
+0 0
+cfl=(523)
+cfn=(523)
+calls=1 0
+0 0
+
+fl=(371)
+fn=(371)
+26 0
+
+fl=(643)
+fn=(643)
+1516 0
+cfl=(645)
+cfn=(645)
+calls=4 0
+0 0
+cfl=(644)
+cfn=(644)
+calls=4 0
+0 0
+
+fl=(254)
+fn=(254)
+46 0
+
+fl=(232)
+fn=(232)
+256 0
+
+fl=(143)
+fn=(143)
+111 0
+
+fl=(499)
+fn=(499)
+156 0
+
+fl=(706)
+fn=(706)
+53 0
+
+fl=(352)
+fn=(352)
+631 0
+
+fl=(382)
+fn=(382)
+716 0
+
+fl=(286)
+fn=(286)
+26 0
+cfl=(288)
+cfn=(288)
+calls=38 0
+0 0
+
+fl=(520)
+fn=(520)
+1807 0
+
+fl=(545)
+fn=(545)
+491 0
+cfl=(387)
+cfn=(387)
+calls=1 0
+0 0
+cfl=(605)
+cfn=(605)
+calls=1 0
+0 0
+cfl=(597)
+cfn=(597)
+calls=3 0
+0 0
+cfl=(590)
+cfn=(590)
+calls=2 0
+0 0
+cfl=(579)
+cfn=(579)
+calls=2 0
+0 0
+cfl=(564)
+cfn=(564)
+calls=2 0
+0 0
+cfl=(563)
+cfn=(563)
+calls=5 0
+0 0
+cfl=(551)
+cfn=(551)
+calls=1 0
+0 0
+cfl=(379)
+cfn=(379)
+calls=1 0
+0 0
+cfl=(550)
+cfn=(550)
+calls=2 0
+0 0
+cfl=(546)
+cfn=(546)
+calls=8 0
+0 0
+
+fl=(766)
+fn=(766)
+432 0
+cfl=(767)
+cfn=(767)
+calls=1 0
+0 0
+
+fl=(129)
+fn=(129)
+806 0
+
+fl=(168)
+fn=(168)
+413 0
+
+fl=(184)
+fn=(184)
+352 0
+cfl=(130)
+cfn=(130)
+calls=5 0
+0 0
+
+fl=(386)
+fn=(386)
+1164 0
+
+fl=(166)
+fn=(166)
+411 0
+cfl=(168)
+cfn=(168)
+calls=3 0
+0 0
+
+fl=(77)
+fn=(77)
+1445 0
+cfl=(79)
+cfn=(79)
+calls=9 0
+0 0
+cfl=(78)
+cfn=(78)
+calls=9 0
+0 0
+
+fl=(43)
+fn=(43)
+576 0
+cfl=(208)
+cfn=(208)
+calls=2 0
+0 0
+cfl=(46)
+cfn=(46)
+calls=57 0
+0 0
+cfl=(45)
+cfn=(45)
+calls=55 0
+0 0
+cfl=(44)
+cfn=(44)
+calls=55 0
+0 0
+
+fl=(270)
+fn=(270)
+123 0
+
+fl=(208)
+fn=(208)
+1040 0
+cfl=(34)
+cfn=(34)
+calls=2 0
+0 0
+cfl=(73)
+cfn=(73)
+calls=2 0
+0 0
+
+fl=(131)
+fn=(131)
+273 0
+cfl=(177)
+cfn=(177)
+calls=16 0
+0 0
+cfl=(135)
+cfn=(135)
+calls=16 0
+0 0
+cfl=(134)
+cfn=(134)
+calls=16 0
+0 0
+cfl=(132)
+cfn=(132)
+calls=3 0
+0 0
+
+fl=(454)
+fn=(454)
+248 0
+cfl=(475)
+cfn=(475)
+calls=4 0
+0 0
+cfl=(468)
+cfn=(468)
+calls=2 0
+0 0
+cfl=(467)
+cfn=(467)
+calls=21 0
+0 0
+cfl=(457)
+cfn=(457)
+calls=1 0
+0 0
+cfl=(455)
+cfn=(455)
+calls=9 0
+0 0
+
+fl=(444)
+fn=(444)
+182 0
+
+fl=(46)
+fn=(46)
+504 0
+cfl=(50)
+cfn=(50)
+calls=112 0
+0 0
+cfl=(49)
+cfn=(49)
+calls=57 0
+0 0
+cfl=(48)
+cfn=(48)
+calls=57 0
+0 0
+
+fl=(780)
+fn=(780)
+153 0
+cfl=(785)
+cfn=(785)
+calls=1 0
+0 0
+cfl=(781)
+cfn=(781)
+calls=1 0
+0 0
+
+fl=(415)
+fn=(415)
+212 0
+
+fl=(6)
+fn=(6)
+58 0
+
+fl=(95)
+fn=(95)
+45 0
+
+fl=(139)
+fn=(139)
+76 0
+
+fl=(389)
+fn=(389)
+106 0
+
+fl=(147)
+fn=(147)
+249 0
+cfl=(138)
+cfn=(138)
+calls=42 0
+0 0
+
+fl=(96)
+fn=(96)
+115 0
+
+fl=(222)
+fn=(222)
+197 0
+
+fl=(587)
+fn=(587)
+75 0
+
+fl=(791)
+fn=(791)
+84 0
+
+fl=(66)
+fn=(66)
+438 0
+cfl=(67)
+cfn=(67)
+calls=55 0
+0 0
+
+fl=(491)
+fn=(491)
+134 0
+
+fl=(367)
+fn=(367)
+5 0
+
+fl=(123)
+fn=(123)
+696 0
+
+fl=(806)
+fn=(806)
+534 0
+cfl=(821)
+cfn=(821)
+calls=63 0
+0 0
+cfl=(809)
+cfn=(809)
+calls=62 0
+0 0
+cfl=(807)
+cfn=(807)
+calls=63 0
+0 0
+
+fl=(264)
+fn=(264)
+120 0
+
+fl=(651)
+fn=(651)
+573 0
+cfl=(652)
+cfn=(652)
+calls=4 0
+0 0
+
+fl=(640)
+fn=(640)
+36 0
+
+fl=(316)
+fn=(316)
+13 0
+
+fl=(600)
+fn=(600)
+1349 0
+cfl=(601)
+cfn=(601)
+calls=3 0
+0 0
+cfl=(383)
+cfn=(383)
+calls=3 0
+0 0
+
+fl=(400)
+fn=(400)
+182 0
+
+fl=(553)
+fn=(553)
+253 0
+
+fl=(829)
+fn=(829)
+28 0
+cfl=(835)
+cfn=(835)
+calls=1 0
+0 0
+cfl=(833)
+cfn=(833)
+calls=1 0
+0 0
+cfl=(831)
+cfn=(831)
+calls=1 0
+0 0
+cfl=(830)
+cfn=(830)
+calls=2 0
+0 0
+
+fl=(348)
+fn=(348)
+527 0
+
+fl=(181)
+fn=(181)
+320 0
+
+fl=(728)
+fn=(728)
+45 0
+cfl=(748)
+cfn=(748)
+calls=2 0
+0 0
+cfl=(747)
+cfn=(747)
+calls=2 0
+0 0
+cfl=(746)
+cfn=(746)
+calls=1 0
+0 0
+cfl=(742)
+cfn=(742)
+calls=1 0
+0 0
+cfl=(737)
+cfn=(737)
+calls=1 0
+0 0
+cfl=(729)
+cfn=(729)
+calls=1 0
+0 0
+
+fl=(310)
+fn=(310)
+1 0
+cfl=(1)
+cfn=(1)
+calls=1 0
+0 0
+cfl=(93)
+cfn=(93)
+calls=4 0
+0 0
+cfl=(48)
+cfn=(48)
+calls=4 0
+0 0
+
+fl=(343)
+fn=(343)
+332 0
+
+fl=(568)
+fn=(568)
+1 0
+cfl=(93)
+cfn=(93)
+calls=1 0
+0 0
+
+fl=(266)
+fn=(266)
+133 0
+
+fl=(426)
+fn=(426)
+130 0
+cfl=(431)
+cfn=(431)
+calls=1 0
+0 0
+cfl=(428)
+cfn=(428)
+calls=1 0
+0 0
+cfl=(427)
+cfn=(427)
+calls=1 0
+0 0
+
+fl=(431)
+fn=(431)
+71 0
+cfl=(435)
+cfn=(435)
+calls=3 0
+0 0
+cfl=(434)
+cfn=(434)
+calls=6 0
+0 0
+cfl=(432)
+cfn=(432)
+calls=7 0
+0 0
+
+fl=(490)
+fn=(490)
+38 0
+cfl=(491)
+cfn=(491)
+calls=1 0
+0 0
+
+fl=(294)
+fn=(294)
+17 0
+
+fl=(376)
+fn=(376)
+66 0
+
+fl=(226)
+fn=(226)
+225 0
+
+fl=(137)
+fn=(137)
+224 0
+cfl=(138)
+cfn=(138)
+calls=16 0
+0 0
+
+fl=(634)
+fn=(634)
+34 0
+
+fl=(177)
+fn=(177)
+841 0
+cfl=(178)
+cfn=(178)
+calls=32 0
+0 0
+
+fl=(764)
+fn=(764)
+194 0
+cfl=(612)
+cfn=(612)
+calls=1 0
+0 0
+cfl=(768)
+cfn=(768)
+calls=1 0
+0 0
+cfl=(766)
+cfn=(766)
+calls=1 0
+0 0
+
+fl=(190)
+fn=(190)
+343 0
+cfl=(200)
+cfn=(200)
+calls=1 0
+0 0
+
+fl=(483)
+fn=(483)
+9 0
+
+fl=(318)
+fn=(318)
+76 0
+
+fl=(486)
+fn=(486)
+31 0
+
+fl=(566)
+fn=(566)
+376 0
+
+fl=(263)
+fn=(263)
+115 0
+
+fl=(39)
+fn=(39)
+574 0
+cfl=(41)
+cfn=(41)
+calls=57 0
+0 0
+
+fl=(450)
+fn=(450)
+76 0
+
+fl=(225)
+fn=(225)
+218 0
+
+fl=(730)
+fn=(730)
+121 0
+cfl=(640)
+cfn=(640)
+calls=1 0
+0 0
+
+fl=(837)
+fn=(837)
+335 0
+cfl=(810)
+cfn=(810)
+calls=1 0
+0 0
+
+fl=(588)
+fn=(588)
+232 0
+
+fl=(767)
+fn=(767)
+97 0
+cfl=(178)
+cfn=(178)
+calls=2 0
+0 0
+
+fl=(34)
+fn=(34)
+222 0
+
+fl=(244)
+fn=(244)
+374 0
+cfl=(245)
+cfn=(245)
+calls=14 0
+0 0
+
+fl=(660)
+fn=(660)
+39 0
+cfl=(834)
+cfn=(834)
+calls=1 0
+0 0
+cfl=(661)
+cfn=(661)
+calls=3 0
+0 0
+
+fl=(360)
+fn=(360)
+1 0
+cfl=(48)
+cfn=(48)
+calls=8 0
+0 0
+cfl=(93)
+cfn=(93)
+calls=9 0
+0 0
+
+fl=(323)
+fn=(323)
+224 0
+
+fl=(416)
+fn=(416)
+18 0
+
+fl=(531)
+fn=(531)
+80 0
+
+fl=(494)
+fn=(494)
+1 0
+cfl=(377)
+cfn=(377)
+calls=1 0
+0 0
+cfl=(93)
+cfn=(93)
+calls=1 0
+0 0
+
+fl=(592)
+fn=(592)
+165 0
+cfl=(594)
+cfn=(594)
+calls=3 0
+0 0
+cfl=(593)
+cfn=(593)
+calls=3 0
+0 0
+
+fl=(201)
+fn=(201)
+432 0
+
+fl=(753)
+fn=(753)
+679 0
+cfl=(132)
+cfn=(132)
+calls=2 0
+0 0
+
+fl=(422)
+fn=(422)
+45 0
+
+fl=(528)
+fn=(528)
+594 0
+cfl=(529)
+cfn=(529)
+calls=1 0
+0 0
+
+fl=(414)
+fn=(414)
+186 0
+cfl=(415)
+cfn=(415)
+calls=1 0
+0 0
+
+fl=(430)
+fn=(430)
+458 0
+
+fl=(435)
+fn=(435)
+18 0
+
+fl=(487)
+fn=(487)
+93 0
+cfl=(130)
+cfn=(130)
+calls=1 0
+0 0
+cfl=(488)
+cfn=(488)
+calls=1 0
+0 0
+
+fl=(451)
+fn=(451)
+87 0
+
+fl=(476)
+fn=(476)
+777 0
+cfl=(459)
+cfn=(459)
+calls=3 0
+0 0
+
+fl=(797)
+fn=(797)
+44 0
+
+fl=(529)
+fn=(529)
+535 0
+cfl=(533)
+cfn=(533)
+calls=1 0
+0 0
+cfl=(532)
+cfn=(532)
+calls=1 0
+0 0
+cfl=(531)
+cfn=(531)
+calls=1 0
+0 0
+cfl=(530)
+cfn=(530)
+calls=1 0
+0 0
+
+fl=(465)
+fn=(465)
+165 0
+cfl=(480)
+cfn=(480)
+calls=3 0
+0 0
+
+fl=(569)
+fn=(569)
+12 0
+
+fl=(200)
+fn=(200)
+258 0
+cfl=(138)
+cfn=(138)
+calls=2 0
+0 0
+
+fl=(798)
+fn=(798)
+468 0
+
+fl=(44)
+fn=(44)
+719 0
+
+fl=(501)
+fn=(501)
+106 0
+
+fl=(219)
+fn=(219)
+172 0
+
+fl=(535)
+fn=(535)
+865 0
+cfl=(536)
+cfn=(536)
+calls=1 0
+0 0
+
+fl=(38)
+fn=(38)
+884 0
+
+fl=(549)
+fn=(549)
+437 0
+cfl=(582)
+cfn=(582)
+calls=2 0
+0 0
+
+fl=(657)
+fn=(657)
+96 0
+
+fl=(91)
+fn=(91)
+25 0
+cfl=(130)
+cfn=(130)
+calls=1 0
+0 0
+cfl=(93)
+cfn=(93)
+calls=1 0
+0 0
+cfl=(1)
+cfn=(1)
+calls=2 0
+0 0
+
+fl=(268)
+fn=(268)
+155 0
+
+fl=(185)
+fn=(185)
+267 0
+cfl=(138)
+cfn=(138)
+calls=14 0
+0 0
+
+fl=(747)
+fn=(747)
+349 0
+
+fl=(213)
+fn=(213)
+139 0
+cfl=(93)
+cfn=(93)
+calls=14 0
+0 0
+
+fl=(45)
+fn=(45)
+35 0
+
+fl=(197)
+fn=(197)
+746 0
+cfl=(198)
+cfn=(198)
+calls=3 0
+0 0
+
+fl=(417)
+fn=(417)
+1 0
+cfl=(377)
+cfn=(377)
+calls=1 0
+0 0
+cfl=(1)
+cfn=(1)
+calls=2 0
+0 0
+cfl=(93)
+cfn=(93)
+calls=3 0
+0 0
+
+fl=(760)
+fn=(760)
+63 0
+cfl=(761)
+cfn=(761)
+calls=1 0
+0 0
+
+fl=(281)
+fn=(281)
+25 0
+
+fl=(324)
+fn=(324)
+239 0
+
+fl=(433)
+fn=(433)
+10 0
+cfl=(431)
+cfn=(431)
+calls=5 0
+0 0
+
+fl=(178)
+fn=(178)
+289 0
+cfl=(179)
+cfn=(179)
+calls=38 0
+0 0
+
+fl=(304)
+fn=(304)
+67 0
+
+fl=(174)
+fn=(174)
+81 0
+
+fl=(620)
+fn=(620)
+1368 0
+cfl=(623)
+cfn=(623)
+calls=3 0
+0 0
+cfl=(621)
+cfn=(621)
+calls=3 0
+0 0
+
+fl=(628)
+fn=(628)
+1476 0
+cfl=(629)
+cfn=(629)
+calls=4 0
+0 0
+
+fl=(741)
+fn=(741)
+54 0
+
+fl=(649)
+fn=(649)
+595 0
+cfl=(654)
+cfn=(654)
+calls=4 0
+0 0
+cfl=(651)
+cfn=(651)
+calls=4 0
+0 0
+cfl=(650)
+cfn=(650)
+calls=4 0
+0 0
+
+fl=(359)
+fn=(359)
+1968 0
+
+fl=(234)
+fn=(234)
+387 0
+
+fl=(834)
+fn=(834)
+26 0
+cfl=(618)
+cfn=(618)
+calls=1 0
+0 0
+
+fl=(346)
+fn=(346)
+423 0
+
+fl=(329)
+fn=(329)
+168 0
+
+fl=(737)
+fn=(737)
+78 0
+cfl=(739)
+cfn=(739)
+calls=1 0
+0 0
+
+fl=(363)
+fn=(363)
+1 0
+
+fl=(206)
+fn=(206)
+1 0
+cfl=(255)
+cfn=(255)
+calls=1 0
+0 0
+cfl=(249)
+cfn=(249)
+calls=3 0
+0 0
+cfl=(246)
+cfn=(246)
+calls=2 0
+0 0
+cfl=(244)
+cfn=(244)
+calls=1 0
+0 0
+cfl=(242)
+cfn=(242)
+calls=1 0
+0 0
+cfl=(240)
+cfn=(240)
+calls=1 0
+0 0
+cfl=(239)
+cfn=(239)
+calls=4 0
+0 0
+cfl=(213)
+cfn=(213)
+calls=14 0
+0 0
+cfl=(93)
+cfn=(93)
+calls=20 0
+0 0
+cfl=(1)
+cfn=(1)
+calls=2 0
+0 0
+
+fl=(564)
+fn=(564)
+649 0
+cfl=(565)
+cfn=(565)
+calls=2 0
+0 0
+cfl=(546)
+cfn=(546)
+calls=2 0
+0 0
+
+fl=(212)
+fn=(212)
+151 0
+
+fl=(534)
+fn=(534)
+26 0
+cfl=(93)
+cfn=(93)
+calls=1 0
+0 0
+cfl=(48)
+cfn=(48)
+calls=1 0
+0 0
+
+fl=(252)
+fn=(252)
+194 0
+cfl=(114)
+cfn=(114)
+calls=8 0
+0 0
+cfl=(9)
+cfn=(9)
+calls=8 0
+0 0
+cfl=(4)
+cfn=(4)
+calls=8 0
+0 0
+
+fl=(654)
+fn=(654)
+47 0
+cfl=(662)
+cfn=(662)
+calls=4 0
+0 0
+cfl=(650)
+cfn=(650)
+calls=3 0
+0 0
+cfl=(660)
+cfn=(660)
+calls=4 0
+0 0
+cfl=(655)
+cfn=(655)
+calls=4 0
+0 0
+
+fl=(353)
+fn=(353)
+832 0
+
+fl=(187)
+fn=(187)
+84 0
+cfl=(174)
+cfn=(174)
+calls=34 0
+0 0
+
+fl=(515)
+fn=(515)
+87 0
+
+fl=(647)
+fn=(647)
+1013 0
+cfl=(560)
+cfn=(560)
+calls=4 0
+0 0
+cfl=(648)
+cfn=(648)
+calls=4 0
+0 0
+
+fl=(136)
+fn=(136)
+913 0
+cfl=(154)
+cfn=(154)
+calls=16 0
+0 0
+cfl=(140)
+cfn=(140)
+calls=16 0
+0 0
+cfl=(139)
+cfn=(139)
+calls=16 0
+0 0
+cfl=(137)
+cfn=(137)
+calls=16 0
+0 0
+
+fl=(275)
+fn=(275)
+197 0
+
+fl=(597)
+fn=(597)
+783 0
+cfl=(563)
+cfn=(563)
+calls=3 0
+0 0
+cfl=(599)
+cfn=(599)
+calls=3 0
+0 0
+cfl=(377)
+cfn=(377)
+calls=3 0
+0 0
+
+fl=(523)
+fn=(523)
+1978 0
+cfl=(512)
+cfn=(512)
+calls=1 0
+0 0
+
+fl=(666)
+fn=(666)
+19 0
+cfl=(667)
+cfn=(667)
+calls=1 0
+0 0
+
+fl=(570)
+fn=(570)
+60 0
+
+fl=(354)
+fn=(354)
+1069 0
+
+fl=(338)
+fn=(338)
+113 0
+
+fl=(702)
+fn=(702)
+85 0
+
+fl=(464)
+fn=(464)
+618 0
+
+fl=(644)
+fn=(644)
+736 0
+
+fl=(117)
+fn=(117)
+153 0
+
+fl=(576)
+fn=(576)
+502 0
+cfl=(577)
+cfn=(577)
+calls=2 0
+0 0
+
+fl=(111)
+fn=(111)
+321 0
+
+fl=(120)
+fn=(120)
+631 0
+
+fl=(51)
+fn=(51)
+369 0
+cfl=(53)
+cfn=(53)
+calls=55 0
+0 0
+
+fl=(804)
+fn=(804)
+834 0
+cfl=(806)
+cfn=(806)
+calls=1 0
+0 0
+cfl=(803)
+cfn=(803)
+calls=1 0
+0 0
+
+fl=(375)
+fn=(375)
+55 0
+
+fl=(260)
+fn=(260)
+97 0
+
+fl=(78)
+fn=(78)
+98 0
+cfl=(36)
+cfn=(36)
+calls=9 0
+0 0
+
+fl=(262)
+fn=(262)
+111 0
+
+fl=(24)
+fn=(24)
+1203 0
+cfl=(76)
+cfn=(76)
+calls=9 0
+0 0
+
+fl=(700)
+fn=(700)
+72 0
+cfl=(703)
+cfn=(703)
+calls=1 0
+0 0
+
+fl=(258)
+fn=(258)
+2 0
+
+fl=(15)
+fn=(15)
+855 0
+
+fl=(751)
+fn=(751)
+326 0
+cfl=(752)
+cfn=(752)
+calls=2 0
+0 0
+cfl=(93)
+cfn=(93)
+calls=2 0
+0 0
+cfl=(48)
+cfn=(48)
+calls=2 0
+0 0
+
+fl=(809)
+fn=(809)
+264 0
+cfl=(829)
+cfn=(829)
+calls=1 0
+0 0
+cfl=(820)
+cfn=(820)
+calls=62 0
+0 0
+cfl=(812)
+cfn=(812)
+calls=62 0
+0 0
+cfl=(810)
+cfn=(810)
+calls=62 0
+0 0
+
+fl=(629)
+fn=(629)
+282 0
+cfl=(641)
+cfn=(641)
+calls=4 0
+0 0
+cfl=(640)
+cfn=(640)
+calls=4 0
+0 0
+cfl=(639)
+cfn=(639)
+calls=4 0
+0 0
+cfl=(638)
+cfn=(638)
+calls=4 0
+0 0
+cfl=(636)
+cfn=(636)
+calls=4 0
+0 0
+cfl=(632)
+cfn=(632)
+calls=4 0
+0 0
+cfl=(631)
+cfn=(631)
+calls=4 0
+0 0
+
+fl=(319)
+fn=(319)
+111 0
+
+fl=(384)
+fn=(384)
+1267 0
+cfl=(453)
+cfn=(453)
+calls=1 0
+0 0
+cfl=(386)
+cfn=(386)
+calls=2 0
+0 0
+
+fl=(250)
+fn=(250)
+490 0
+
+fl=(180)
+fn=(180)
+287 0
+
+fl=(719)
+fn=(719)
+804 0
+cfl=(552)
+cfn=(552)
+calls=2 0
+0 0
+
+fl=(92)
+fn=(92)
+24 0
+cfl=(93)
+cfn=(93)
+calls=1 0
+0 0
+
+fl=(740)
+fn=(740)
+262 0
+
+fl=(109)
+fn=(109)
+318 0
+cfl=(34)
+cfn=(34)
+calls=57 0
+0 0
+
+fl=(255)
+fn=(255)
+259 0
+cfl=(246)
+cfn=(246)
+calls=1 0
+0 0
+
+fl=(624)
+fn=(624)
+1446 0
+cfl=(627)
+cfn=(627)
+calls=4 0
+0 0
+cfl=(625)
+cfn=(625)
+calls=4 0
+0 0
+
+fl=(833)
+fn=(833)
+1397 0
+cfl=(623)
+cfn=(623)
+calls=1 0
+0 0
+cfl=(621)
+cfn=(621)
+calls=1 0
+0 0
+
+fl=(636)
+fn=(636)
+201 0
+cfl=(637)
+cfn=(637)
+calls=4 0
+0 0
+
+fl=(115)
+fn=(115)
+176 0
+
+fl=(103)
+fn=(103)
+1026 0
+
+fl=(449)
+fn=(449)
+69 0
+
+fl=(439)
+fn=(439)
+340 0
+cfl=(434)
+cfn=(434)
+calls=1 0
+0 0
+
+fl=(726)
+fn=(726)
+22 0
+
+fl=(563)
+fn=(563)
+327 0
+cfl=(548)
+cfn=(548)
+calls=17 0
+0 0
+
+fl=(18)
+fn=(18)
+859 0
+
+fl=(756)
+fn=(756)
+230 0
+cfl=(763)
+cfn=(763)
+calls=1 0
+0 0
+cfl=(93)
+cfn=(93)
+calls=1 0
+0 0
+cfl=(1)
+cfn=(1)
+calls=1 0
+0 0
+cfl=(48)
+cfn=(48)
+calls=1 0
+0 0
+
+fl=(321)
+fn=(321)
+197 0
+
+fl=(149)
+fn=(149)
+408 0
+
+fl=(159)
+fn=(159)
+461 0
+cfl=(159)
+cfn=(159)
+calls=1 0
+0 0
+cfl=(189)
+cfn=(189)
+calls=1 0
+0 0
+cfl=(160)
+cfn=(160)
+calls=17 0
+0 0
+
+fl=(423)
+fn=(423)
+102 0
+
+fl=(696)
+fn=(696)
+25 0
+cfl=(178)
+cfn=(178)
+calls=2 0
+0 0
+
+fl=(284)
+fn=(284)
+71 0
+
+fl=(459)
+fn=(459)
+113 0
+cfl=(478)
+cfn=(478)
+calls=8 0
+0 0
+cfl=(477)
+cfn=(477)
+calls=6 0
+0 0
+
+fl=(474)
+fn=(474)
+749 0
+cfl=(454)
+cfn=(454)
+calls=5 0
+0 0
+
+fl=(768)
+fn=(768)
+438 0
+cfl=(767)
+cfn=(767)
+calls=1 0
+0 0
+
+fl=(332)
+fn=(332)
+1 0
+cfl=(1)
+cfn=(1)
+calls=1 0
+0 0
+cfl=(93)
+cfn=(93)
+calls=16 0
+0 0
+cfl=(48)
+cfn=(48)
+calls=16 0
+0 0
+
+fl=(154)
+fn=(154)
+897 0
+
+fl=(650)
+fn=(650)
+360 0
+
+fl=(441)
+fn=(441)
+381 0
+
+fl=(733)
+fn=(733)
+248 0
+
+fl=(224)
+fn=(224)
+211 0
+
+fl=(627)
+fn=(627)
+44 0
+
+fl=(480)
+fn=(480)
+176 0
+
+fl=(589)
+fn=(589)
+899 0
+
+fl=(839)
+fn=(839)
+133 0
+cfl=(840)
+cfn=(840)
+calls=1 0
+0 0
+cfl=(705)
+cfn=(705)
+calls=1 0
+0 0
+
+fl=(425)
+fn=(425)
+1 0
+cfl=(377)
+cfn=(377)
+calls=1 0
+0 0
+cfl=(93)
+cfn=(93)
+calls=1 0
+0 0
+
+fl=(228)
+fn=(228)
+235 0
+
+fl=(140)
+fn=(140)
+411 0
+cfl=(145)
+cfn=(145)
+calls=3 0
+0 0
+cfl=(149)
+cfn=(149)
+calls=1 0
+0 0
+cfl=(152)
+cfn=(152)
+calls=10 0
+0 0
+cfl=(151)
+cfn=(151)
+calls=6 0
+0 0
+cfl=(143)
+cfn=(143)
+calls=3 0
+0 0
+cfl=(147)
+cfn=(147)
+calls=40 0
+0 0
+cfl=(142)
+cfn=(142)
+calls=40 0
+0 0
+cfl=(141)
+cfn=(141)
+calls=36 0
+0 0
+
+fl=(351)
+fn=(351)
+159 0
+cfl=(303)
+cfn=(303)
+calls=1 0
+0 0
+
+fl=(404)
+fn=(404)
+114 0
+
+fl=(488)
+fn=(488)
+835 0
+cfl=(178)
+cfn=(178)
+calls=2 0
+0 0
+
+fl=(469)
+fn=(469)
+634 0
+cfl=(459)
+cfn=(459)
+calls=2 0
+0 0
+
+fl=(311)
+fn=(311)
+1 0
+cfl=(1)
+cfn=(1)
+calls=1 0
+0 0
+cfl=(93)
+cfn=(93)
+calls=18 0
+0 0
+cfl=(48)
+cfn=(48)
+calls=18 0
+0 0
+
+fl=(761)
+fn=(761)
+171 0
+cfl=(592)
+cfn=(592)
+calls=1 0
+0 0
+
+fl=(409)
+fn=(409)
+629 0
+
+fl=(278)
+fn=(278)
+2 0
+cfl=(303)
+cfn=(303)
+calls=1 0
+0 0
+cfl=(93)
+cfn=(93)
+calls=1 0
+0 0
+cfl=(1)
+cfn=(1)
+calls=1 0
+0 0
+cfl=(48)
+cfn=(48)
+calls=1 0
+0 0
+
+fl=(538)
+fn=(538)
+377 0
+
+fl=(482)
+fn=(482)
+1 0
+cfl=(490)
+cfn=(490)
+calls=1 0
+0 0
+cfl=(93)
+cfn=(93)
+calls=1 0
+0 0
+cfl=(1)
+cfn=(1)
+calls=1 0
+0 0
+
+fl=(272)
+fn=(272)
+121 0
+
+fl=(556)
+fn=(556)
+838 0
+
+fl=(377)
+fn=(377)
+1928 0
+cfl=(378)
+cfn=(378)
+calls=10 0
+0 0
+
+fl=(369)
+fn=(369)
+60 0
+
+fl=(207)
+fn=(207)
+1029 0
+
+fl=(608)
+fn=(608)
+378 0
+cfl=(609)
+cfn=(609)
+calls=1 0
+0 0
+
+fl=(693)
+fn=(693)
+45 0
+cfl=(696)
+cfn=(696)
+calls=2 0
+0 0
+cfl=(694)
+cfn=(694)
+calls=4 0
+0 0
+
+fl=(755)
+fn=(755)
+202 0
+
+fl=(463)
+fn=(463)
+595 0
+
+fl=(803)
+fn=(803)
+507 0
+
+fl=(237)
+fn=(237)
+418 0
+
+fl=(461)
+fn=(461)
+608 0
+cfl=(465)
+cfn=(465)
+calls=7 0
+0 0
+cfl=(464)
+cfn=(464)
+calls=18 0
+0 0
+cfl=(462)
+cfn=(462)
+calls=50 0
+0 0
+
+fl=(712)
+fn=(712)
+316 0
+
+fl=(308)
+fn=(308)
+749 0
+cfl=(307)
+cfn=(307)
+calls=3 0
+0 0
+
+fl=(410)
+fn=(410)
+755 0
+
+fl=(615)
+fn=(615)
+447 0
+
+fl=(295)
+fn=(295)
+22 0
+
+fl=(599)
+fn=(599)
+765 0
+cfl=(603)
+cfn=(603)
+calls=2 0
+0 0
+cfl=(600)
+cfn=(600)
+calls=3 0
+0 0
+cfl=(383)
+cfn=(383)
+calls=3 0
+0 0
+cfl=(563)
+cfn=(563)
+calls=9 0
+0 0
+
+fl=(335)
+fn=(335)
+79 0
+
+fl=(29)
+fn=(29)
+36 0
+
+fl=(678)
+fn=(678)
+17 0
+cfl=(679)
+cfn=(679)
+calls=1 0
+0 0
+
+fl=(718)
+fn=(718)
+763 0
+cfl=(305)
+cfn=(305)
+calls=1 0
+0 0
+cfl=(307)
+cfn=(307)
+calls=1 0
+0 0
+
+fl=(362)
+fn=(362)
+4 0
+
+fl=(524)
+fn=(524)
+2008 0
+
+fl=(53)
+fn=(53)
+271 0
+cfl=(30)
+cfn=(30)
+calls=110 0
+0 0
+cfl=(54)
+cfn=(54)
+calls=110 0
+0 0
+
+fl=(665)
+fn=(665)
+28 0
+cfl=(674)
+cfn=(674)
+calls=1 0
+0 0
+cfl=(669)
+cfn=(669)
+calls=1 0
+0 0
+cfl=(666)
+cfn=(666)
+calls=1 0
+0 0
+
+fl=(182)
+fn=(182)
+335 0
+
+fl=(251)
+fn=(251)
+1 0
+cfl=(93)
+cfn=(93)
+calls=1 0
+0 0
+cfl=(252)
+cfn=(252)
+calls=1 0
+0 0
+
+fl=(800)
+fn=(800)
+728 0
+
+fl=(134)
+fn=(134)
+595 0
+
+fl=(407)
+fn=(407)
+422 0
+
+fl=(331)
+fn=(331)
+195 0
+
+fl=(188)
+fn=(188)
+96 0
+cfl=(157)
+cfn=(157)
+calls=17 0
+0 0
+
+fl=(619)
+fn=(619)
+207 0
+
+fl=(249)
+fn=(249)
+489 0
+
+fl=(133)
+fn=(133)
+633 0
+
+fl=(573)
+fn=(573)
+280 0
+
+fl=(121)
+fn=(121)
+681 0
+
+fl=(571)
+fn=(571)
+65 0
+
+fl=(694)
+fn=(694)
+35 0
+
+fl=(820)
+fn=(820)
+252 0
+
+fl=(727)
+fn=(727)
+39 0
+
+fl=(339)
+fn=(339)
+137 0
+
+fl=(550)
+fn=(550)
+331 0
+cfl=(548)
+cfn=(548)
+calls=16 0
+0 0
+
+fl=(271)
+fn=(271)
+85 0
+
+fl=(276)
+fn=(276)
+231 0
+
+fl=(541)
+fn=(541)
+211 0
+cfl=(543)
+cfn=(543)
+calls=1 0
+0 0
+cfl=(542)
+cfn=(542)
+calls=1 0
+0 0
+
+fl=(785)
+fn=(785)
+156 0
+cfl=(786)
+cfn=(786)
+calls=8 0
+0 0
+
+fl=(787)
+fn=(787)
+224 0
+
+fl=(399)
+fn=(399)
+290 0
+
+fl=(300)
+fn=(300)
+16 0
+
+fl=(151)
+fn=(151)
+160 0
+
+fl=(162)
+fn=(162)
+71 0
+cfl=(189)
+cfn=(189)
+calls=17 0
+0 0
+cfl=(152)
+cfn=(152)
+calls=114 0
+0 0
+cfl=(162)
+cfn=(162)
+calls=55 0
+0 0
+cfl=(173)
+cfn=(173)
+calls=33 0
+0 0
+cfl=(172)
+cfn=(172)
+calls=28 0
+0 0
+cfl=(163)
+cfn=(163)
+calls=28 0
+0 0
+
+fl=(496)
+fn=(496)
+12 0
+
+fl=(752)
+fn=(752)
+346 0
+
+fl=(54)
+fn=(54)
+62 0
+
+fl=(544)
+fn=(544)
+372 0
+
+fl=(122)
+fn=(122)
+682 0
+
+fl=(322)
+fn=(322)
+212 0
+
+fl=(107)
+fn=(107)
+1333 0
+
+fl=(668)
+fn=(668)
+216 0
+
+fl=(118)
+fn=(118)
+390 0
+
+fl=(303)
+fn=(303)
+210 0
+cfl=(305)
+cfn=(305)
+calls=5 0
+0 0
+cfl=(304)
+cfn=(304)
+calls=5 0
+0 0
+
+fl=(632)
+fn=(632)
+212 0
+cfl=(633)
+cfn=(633)
+calls=4 0
+0 0
+
+fl=(729)
+fn=(729)
+139 0
+cfl=(673)
+cfn=(673)
+calls=1 0
+0 0
+cfl=(734)
+cfn=(734)
+calls=1 0
+0 0
+cfl=(733)
+cfn=(733)
+calls=1 0
+0 0
+cfl=(731)
+cfn=(731)
+calls=1 0
+0 0
+cfl=(640)
+cfn=(640)
+calls=1 0
+0 0
+cfl=(730)
+cfn=(730)
+calls=1 0
+0 0
+
+fl=(799)
+fn=(799)
+763 0
+cfl=(703)
+cfn=(703)
+calls=1 0
+0 0
+cfl=(667)
+cfn=(667)
+calls=1 0
+0 0
+cfl=(801)
+cfn=(801)
+calls=1 0
+0 0
+cfl=(638)
+cfn=(638)
+calls=1 0
+0 0
+cfl=(800)
+cfn=(800)
+calls=1 0
+0 0
+
+fl=(408)
+fn=(408)
+569 0
+
+fl=(421)
+fn=(421)
+4 0
+cfl=(307)
+cfn=(307)
+calls=1 0
+0 0
+cfl=(93)
+cfn=(93)
+calls=1 0
+0 0
+
+fl=(205)
+fn=(205)
+10 0
+cfl=(242)
+cfn=(242)
+calls=1 0
+0 0
+cfl=(269)
+cfn=(269)
+calls=3 0
+0 0
+cfl=(244)
+cfn=(244)
+calls=6 0
+0 0
+cfl=(252)
+cfn=(252)
+calls=3 0
+0 0
+cfl=(48)
+cfn=(48)
+calls=3 0
+0 0
+cfl=(93)
+cfn=(93)
+calls=20 0
+0 0
+cfl=(1)
+cfn=(1)
+calls=2 0
+0 0
+
+fl=(427)
+fn=(427)
+64 0
+
+fl=(61)
+fn=(61)
+401 0
+cfl=(62)
+cfn=(62)
+calls=55 0
+0 0
+
+fl=(67)
+fn=(67)
+51 0
+
+fl=(116)
+fn=(116)
+119 0
+cfl=(93)
+cfn=(93)
+calls=2 0
+0 0
+
+fl=(130)
+fn=(130)
+234 0
+cfl=(131)
+cfn=(131)
+calls=20 0
+0 0
+
+fl=(58)
+fn=(58)
+311 0
+
+fl=(344)
+fn=(344)
+347 0
+
+fl=(582)
+fn=(582)
+399 0
+cfl=(566)
+cfn=(566)
+calls=2 0
+0 0
+
+fl=(239)
+fn=(239)
+428 0
+
+fl=(336)
+fn=(336)
+87 0
+
+fl=(374)
+fn=(374)
+1 0
+
+fl=(512)
+fn=(512)
+1468 0
+cfl=(524)
+cfn=(524)
+calls=1 0
+0 0
+cfl=(517)
+cfn=(517)
+calls=35 0
+0 0
+cfl=(513)
+cfn=(513)
+calls=34 0
+0 0
+
+fl=(238)
+fn=(238)
+427 0
+
+fl=(721)
+fn=(721)
+194 0
+
+fl=(220)
+fn=(220)
+189 0
+
+fl=(705)
+fn=(705)
+90 0
+
+fl=(289)
+fn=(289)
+2 0
+cfl=(93)
+cfn=(93)
+calls=1 0
+0 0
+cfl=(252)
+cfn=(252)
+calls=1 0
+0 0
+cfl=(48)
+cfn=(48)
+calls=1 0
+0 0
+
+fl=(514)
+fn=(514)
+282 0
+
+fl=(604)
+fn=(604)
+1526 0
+cfl=(387)
+cfn=(387)
+calls=2 0
+0 0
+cfl=(379)
+cfn=(379)
+calls=2 0
+0 0
+
+fl=(242)
+fn=(242)
+431 0
+cfl=(240)
+cfn=(240)
+calls=3 0
+0 0
+
+fl=(543)
+fn=(543)
+798 0
+cfl=(545)
+cfn=(545)
+calls=1 0
+0 0
+cfl=(544)
+cfn=(544)
+calls=1 0
+0 0
+
+fl=(477)
+fn=(477)
+317 0
+
+fl=(2)
+fn=(2)
+143 0
+
+fl=(114)
+fn=(114)
+103 0
+
+fl=(652)
+fn=(652)
+418 0
+
+fl=(277)
+fn=(277)
+2 0
+cfl=(93)
+cfn=(93)
+calls=3 0
+0 0
+cfl=(1)
+cfn=(1)
+calls=1 0
+0 0
+cfl=(48)
+cfn=(48)
+calls=3 0
+0 0
+
+fl=(267)
+fn=(267)
+143 0
+
+fl=(155)
+fn=(155)
+598 0
+cfl=(162)
+cfn=(162)
+calls=16 0
+0 0
+cfl=(156)
+cfn=(156)
+calls=16 0
+0 0
+
+fl=(157)
+fn=(157)
+174 0
+cfl=(157)
+cfn=(157)
+calls=55 0
+0 0
+
+fl=(542)
+fn=(542)
+140 0
+cfl=(387)
+cfn=(387)
+calls=1 0
+0 0
+cfl=(379)
+cfn=(379)
+calls=1 0
+0 0
+
+fl=(97)
+fn=(97)
+191 0
+
+fl=(467)
+fn=(467)
+669 0
+
+fl=(621)
+fn=(621)
+1614 0
+cfl=(387)
+cfn=(387)
+calls=2 0
+0 0
+cfl=(622)
+cfn=(622)
+calls=2 0
+0 0
+cfl=(379)
+cfn=(379)
+calls=2 0
+0 0
+
+fl=(330)
+fn=(330)
+187 0
+
+fl=(57)
+fn=(57)
+307 0
+
+fl=(586)
+fn=(586)
+831 0
+cfl=(588)
+cfn=(588)
+calls=2 0
+0 0
+cfl=(587)
+cfn=(587)
+calls=2 0
+0 0
+
+fl=(144)
+fn=(144)
+254 0
+cfl=(138)
+cfn=(138)
+calls=197 0
+0 0
+
+fl=(340)
+fn=(340)
+208 0
+
+fl=(246)
+fn=(246)
+73 0
+
+fl=(218)
+fn=(218)
+168 0
+
+fl=(502)
+fn=(502)
+155 0
+
+fl=(720)
+fn=(720)
+476 0
+
+fl=(623)
+fn=(623)
+1491 0
+cfl=(643)
+cfn=(643)
+calls=4 0
+0 0
+cfl=(628)
+cfn=(628)
+calls=4 0
+0 0
+cfl=(624)
+cfn=(624)
+calls=4 0
+0 0
+
+fl=(710)
+fn=(710)
+8 0
+cfl=(93)
+cfn=(93)
+calls=1 0
+0 0
+cfl=(1)
+cfn=(1)
+calls=1 0
+0 0
+
+fl=(126)
+fn=(126)
+125 0
+
+fl=(452)
+fn=(452)
+92 0
+
+fl=(280)
+fn=(280)
+5 0
+cfl=(286)
+cfn=(286)
+calls=3 0
+0 0
+
+fl=(9)
+fn=(9)
+78 0
+
+fl=(462)
+fn=(462)
+709 0
+cfl=(463)
+cfn=(463)
+calls=50 0
+0 0
+
+fl=(598)
+fn=(598)
+1291 0
+
+fl=(497)
+fn=(497)
+27 0
+
+fl=(50)
+fn=(50)
+403 0
+cfl=(51)
+cfn=(51)
+calls=57 0
+0 0
+
+fl=(81)
+fn=(81)
+1325 0
+
+fl=(781)
+fn=(781)
+142 0
+cfl=(782)
+cfn=(782)
+calls=1 0
+0 0
+
+fl=(698)
+fn=(698)
+14 0
+cfl=(700)
+cfn=(700)
+calls=1 0
+0 0
+
+fl=(368)
+fn=(368)
+27 0
+
+fl=(217)
+fn=(217)
+164 0
+
+fl=(309)
+fn=(309)
+1 0
+cfl=(93)
+cfn=(93)
+calls=1 0
+0 0
+cfl=(48)
+cfn=(48)
+calls=1 0
+0 0
+
+fl=(301)
+fn=(301)
+64 0
+cfl=(130)
+cfn=(130)
+calls=2 0
+0 0
+
+fl=(113)
+fn=(113)
+151 0
+cfl=(114)
+cfn=(114)
+calls=57 0
+0 0
+
+fl=(584)
+fn=(584)
+802 0
+cfl=(586)
+cfn=(586)
+calls=2 0
+0 0
+cfl=(585)
+cfn=(585)
+calls=2 0
+0 0
+cfl=(383)
+cfn=(383)
+calls=2 0
+0 0
+cfl=(382)
+cfn=(382)
+calls=2 0
+0 0
+
+fl=(299)
+fn=(299)
+39 0
+
+fl=(709)
+fn=(709)
+11 0
+cfl=(93)
+cfn=(93)
+calls=4 0
+0 0
+cfl=(48)
+cfn=(48)
+calls=4 0
+0 0
+cfl=(1)
+cfn=(1)
+calls=1 0
+0 0
+
+fl=(810)
+fn=(810)
+255 0
+
+fl=(552)
+fn=(552)
+816 0
+cfl=(720)
+cfn=(720)
+calls=2 0
+0 0
+cfl=(553)
+cfn=(553)
+calls=1 0
+0 0
+
+fl=(313)
+fn=(313)
+83 0
+
+fl=(708)
+fn=(708)
+1 0
+cfl=(726)
+cfn=(726)
+calls=1 0
+0 0
+cfl=(93)
+cfn=(93)
+calls=3 0
+0 0
+cfl=(48)
+cfn=(48)
+calls=3 0
+0 0
+
+fl=(772)
+fn=(772)
+126 0
+cfl=(804)
+cfn=(804)
+calls=1 0
+0 0
+cfl=(802)
+cfn=(802)
+calls=1 0
+0 0
+cfl=(799)
+cfn=(799)
+calls=1 0
+0 0
+cfl=(798)
+cfn=(798)
+calls=1 0
+0 0
+cfl=(774)
+cfn=(774)
+calls=1 0
+0 0
+cfl=(731)
+cfn=(731)
+calls=1 0
+0 0
+cfl=(640)
+cfn=(640)
+calls=1 0
+0 0
+cfl=(773)
+cfn=(773)
+calls=1 0
+0 0
+cfl=(93)
+cfn=(93)
+calls=1 0
+0 0
+cfl=(48)
+cfn=(48)
+calls=1 0
+0 0
+
+fl=(457)
+fn=(457)
+340 0
+cfl=(461)
+cfn=(461)
+calls=1 0
+0 0
+cfl=(460)
+cfn=(460)
+calls=1 0
+0 0
+cfl=(458)
+cfn=(458)
+calls=3 0
+0 0
+
+fl=(610)
+fn=(610)
+341 0
+
+fl=(314)
+fn=(314)
+159 0
+
+fl=(241)
+fn=(241)
+358 0
+
+fl=(235)
+fn=(235)
+396 0
+
+fl=(835)
+fn=(835)
+513 0
+cfl=(821)
+cfn=(821)
+calls=1 0
+0 0
+cfl=(836)
+cfn=(836)
+calls=1 0
+0 0
+cfl=(807)
+cfn=(807)
+calls=1 0
+0 0
+
+fl=(585)
+fn=(585)
+783 0
+cfl=(387)
+cfn=(387)
+calls=2 0
+0 0
+cfl=(379)
+cfn=(379)
+calls=2 0
+0 0
+
+fl=(707)
+fn=(707)
+319 0
+cfl=(728)
+cfn=(728)
+calls=1 0
+0 0
+cfl=(93)
+cfn=(93)
+calls=1 0
+0 0
+cfl=(1)
+cfn=(1)
+calls=1 0
+0 0
+cfl=(48)
+cfn=(48)
+calls=1 0
+0 0
+
+fl=(104)
+fn=(104)
+1124 0
+
+fl=(105)
+fn=(105)
+1203 0
+
+fl=(325)
+fn=(325)
+243 0
+
+fl=(418)
+fn=(418)
+2 0
+cfl=(93)
+cfn=(93)
+calls=3 0
+0 0
+cfl=(1)
+cfn=(1)
+calls=2 0
+0 0
+cfl=(48)
+cfn=(48)
+calls=3 0
+0 0
+
+fl=(358)
+fn=(358)
+1653 0
+
+fl=(504)
+fn=(504)
+560 0
+
+fl=(169)
+fn=(169)
+416 0
+
+fl=(233)
+fn=(233)
+319 0
+
+fl=(60)
+fn=(60)
+793 0
+cfl=(70)
+cfn=(70)
+calls=55 0
+0 0
+cfl=(34)
+cfn=(34)
+calls=55 0
+0 0
+cfl=(69)
+cfn=(69)
+calls=55 0
+0 0
+cfl=(66)
+cfn=(66)
+calls=55 0
+0 0
+cfl=(64)
+cfn=(64)
+calls=55 0
+0 0
+cfl=(63)
+cfn=(63)
+calls=55 0
+0 0
+cfl=(53)
+cfn=(53)
+calls=55 0
+0 0
+cfl=(61)
+cfn=(61)
+calls=55 0
+0 0
+
+fl=(373)
+fn=(373)
+13 0
+
+fl=(413)
+fn=(413)
+232 0
+cfl=(414)
+cfn=(414)
+calls=1 0
+0 0
+
+fl=(397)
+fn=(397)
+108 0
+
+fl=(495)
+fn=(495)
+18 0
+
+fl=(455)
+fn=(455)
+322 0
+
+fl=(655)
+fn=(655)
+66 0
+cfl=(658)
+cfn=(658)
+calls=4 0
+0 0
+
+fl=(468)
+fn=(468)
+626 0
+cfl=(471)
+cfn=(471)
+calls=2 0
+0 0
+cfl=(470)
+cfn=(470)
+calls=2 0
+0 0
+cfl=(469)
+cfn=(469)
+calls=4 0
+0 0
+
+fl=(297)
+fn=(297)
+102 0
+
+fl=(500)
+fn=(500)
+34 0
+
+fl=(591)
+fn=(591)
+153 0
+
+fl=(830)
+fn=(830)
+225 0
+cfl=(705)
+cfn=(705)
+calls=2 0
+0 0
+
+fl=(759)
+fn=(759)
+61 0
+
+fl=(511)
+fn=(511)
+1694 0
+cfl=(512)
+cfn=(512)
+calls=34 0
+0 0
+
+fl=(342)
+fn=(342)
+273 0
+
+fl=(530)
+fn=(530)
+72 0
+
+fl=(125)
+fn=(125)
+787 0
+
+fl=(438)
+fn=(438)
+479 0
+
+fl=(645)
+fn=(645)
+1570 0
+cfl=(646)
+cfn=(646)
+calls=4 0
+0 0
+
+fl=(69)
+fn=(69)
+471 0
+cfl=(67)
+cfn=(67)
+calls=110 0
+0 0
+
+fl=(580)
+fn=(580)
+734 0
+cfl=(546)
+cfn=(546)
+calls=2 0
+0 0
+cfl=(573)
+cfn=(573)
+calls=2 0
+0 0
+
+fl=(667)
+fn=(667)
+499 0
+cfl=(668)
+cfn=(668)
+calls=2 0
+0 0
+
+fl=(831)
+fn=(831)
+65 0
+
+fl=(676)
+fn=(676)
+79 0
+cfl=(678)
+cfn=(678)
+calls=1 0
+0 0
+cfl=(677)
+cfn=(677)
+calls=5 0
+0 0
+
+fl=(558)
+fn=(558)
+914 0
+cfl=(387)
+cfn=(387)
+calls=3 0
+0 0
+cfl=(379)
+cfn=(379)
+calls=3 0
+0 0
+
+fl=(663)
+fn=(663)
+421 0
+
+fl=(402)
+fn=(402)
+368 0
+
+fl=(555)
+fn=(555)
+2021 0
+cfl=(560)
+cfn=(560)
+calls=1 0
+0 0
+cfl=(559)
+cfn=(559)
+calls=3 0
+0 0
+cfl=(558)
+cfn=(558)
+calls=3 0
+0 0
+cfl=(557)
+cfn=(557)
+calls=2 0
+0 0
+cfl=(556)
+cfn=(556)
+calls=3 0
+0 0
+
+fl=(292)
+fn=(292)
+21 0
+
+fl=(758)
+fn=(758)
+27 0
+
+fl=(593)
+fn=(593)
+336 0
+
+fl=(603)
+fn=(603)
+757 0
+cfl=(604)
+cfn=(604)
+calls=2 0
+0 0
+cfl=(546)
+cfn=(546)
+calls=4 0
+0 0
+
+fl=(307)
+fn=(307)
+356 0
+
+fl=(646)
+fn=(646)
+881 0
+cfl=(559)
+cfn=(559)
+calls=4 0
+0 0
+cfl=(647)
+cfn=(647)
+calls=4 0
+0 0
+cfl=(556)
+cfn=(556)
+calls=4 0
+0 0
+cfl=(644)
+cfn=(644)
+calls=4 0
+0 0
+
+fl=(135)
+fn=(135)
+759 0
+cfl=(174)
+cfn=(174)
+calls=32 0
+0 0
+cfl=(155)
+cfn=(155)
+calls=16 0
+0 0
+cfl=(136)
+cfn=(136)
+calls=16 0
+0 0
+cfl=(134)
+cfn=(134)
+calls=16 0
+0 0
+
+fl=(532)
+fn=(532)
+158 0
+
+fl=(428)
+fn=(428)
+447 0
+cfl=(430)
+cfn=(430)
+calls=2 0
+0 0
+
+fl=(195)
+fn=(195)
+664 0
+cfl=(196)
+cfn=(196)
+calls=2 0
+0 0
+
+fl=(432)
+fn=(432)
+34 0
+
+fl=(748)
+fn=(748)
+58 0
+cfl=(749)
+cfn=(749)
+calls=2 0
+0 0
+
+fl=(775)
+fn=(775)
+69 0
+cfl=(776)
+cfn=(776)
+calls=1 0
+0 0
+
+fl=(265)
+fn=(265)
+128 0

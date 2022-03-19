@@ -9,4 +9,5 @@ with yappi.run():
 
 freeze_support()
 stats = yappi.get_func_stats()
-stats.save("fastapi.pprof", type="pstat")
+stats.save("fastapi_profiler.callgrind", type="CALLGRIND")
+stats.print_all()
